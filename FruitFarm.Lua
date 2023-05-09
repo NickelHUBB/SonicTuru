@@ -1,5 +1,5 @@
 game:GetService("Lighting").ColorCorrection.Enabled = true
 game:GetService("Lighting").ColorCorrection.Brightness = -100
-wait(0.1)
+wait(0.2)
 game.Players.LocalPlayer:Kick("UPDATE JOIN = https://discord.gg/EVxNxE7KK3")
 setclipboard("https://discord.gg/EVxNxE7KK3")
