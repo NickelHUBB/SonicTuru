@@ -7,7 +7,7 @@ elseif game.PlaceId == 7449423635 then
     World3 = true
 end
 
-function CheckQuest() 
+SonicQuestData.MobData = (Function()
     MyLevel = game:GetService("Players").LocalPlayer.Data.Level.Value
     if World1 then
         if MyLevel == 1 or MyLevel <= 9 then
@@ -638,10 +638,9 @@ function CheckQuest()
             CFrameMon = CFrame.new(-16900.56640625, 194.1417236328125, 1566.103515625) 
         end
     end
-end
+end)
 
---// Check Boss Quest
-function CheckBossQuest(SelectBoss)
+SonicQuestData.BossData = (Function(SelectBoss)
     if World1 then
         if SelectBoss == "The Gorilla King" then
             BossMon = "The Gorilla King [Lv. 25] [Boss]"
@@ -891,4 +890,4 @@ function CheckBossQuest(SelectBoss)
             CFrameBoss = CFrame.new(-5415.3920898438, 505.74133300781, -2814.0166015625)
         end
     end
-end
+end)
