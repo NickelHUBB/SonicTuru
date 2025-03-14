@@ -9,8 +9,8 @@ end
 
 local SonicQuestData = {}
 
-SonicQuestData.MobData = (Function()
-    MyLevel = game:GetService("Players").LocalPlayer.Data.Level.Value
+SonicQuestData.MobData = (function()
+    local MyLevel = game:GetService("Players").LocalPlayer.Data.Level.Value
     if World1 then
         if MyLevel == 1 or MyLevel <= 9 then
             Mon = "Bandit"
@@ -642,7 +642,7 @@ SonicQuestData.MobData = (Function()
     end
 end)
 
-SonicQuestData.BossData = (Function(SelectBoss)
+SonicQuestData.BossData = (function(SelectBoss)
     if World1 then
         if SelectBoss == "The Gorilla King" then
             BossMon = "The Gorilla King [Lv. 25] [Boss]"
