@@ -7,6 +7,8 @@ elseif game.PlaceId == 7449423635 then
     World3 = true
 end
 
+local SonicQuestData = {}
+
 SonicQuestData.MobData = (Function()
     MyLevel = game:GetService("Players").LocalPlayer.Data.Level.Value
     if World1 then
@@ -891,3 +893,5 @@ SonicQuestData.BossData = (Function(SelectBoss)
         end
     end
 end)
+
+return SonicQuestData
