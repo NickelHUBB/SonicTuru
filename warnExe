@@ -1,0 +1,139 @@
+--[=[
+ d888b  db    db d888888b      .d888b.      db      db    db  .d8b.  
+88' Y8b 88    88   `88'        VP  `8D      88      88    88 d8' `8b 
+88      88    88    88            odD'      88      88    88 88ooo88 
+88  ooo 88    88    88          .88'        88      88    88 88~~~88 
+88. ~8~ 88b  d88   .88.        j88.         88booo. 88b  d88 88   88    @uniquadev
+ Y888P  ~Y8888P' Y888888P      888888D      Y88888P ~Y8888P' YP   YP  CONVERTER 
+]=]
+
+-- Instances: 12 | Scripts: 0 | Modules: 0 | Tags: 0
+local G2L = {};
+
+-- StarterGui.ScreenGui
+G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
+G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+
+
+-- StarterGui.ScreenGui.Frame
+G2L["2"] = Instance.new("Frame", G2L["1"]);
+G2L["2"]["BorderSizePixel"] = 0;
+G2L["2"]["BackgroundColor3"] = Color3.fromRGB(100, 100, 100);
+G2L["2"]["Size"] = UDim2.new(0, 457, 0, 267);
+G2L["2"]["Position"] = UDim2.new(0.27393, 0, 0.20833, 0);
+G2L["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+
+
+-- StarterGui.ScreenGui.Frame.UICorner
+G2L["3"] = Instance.new("UICorner", G2L["2"]);
+
+
+
+-- StarterGui.ScreenGui.Frame.UIStroke
+G2L["4"] = Instance.new("UIStroke", G2L["2"]);
+G2L["4"]["Thickness"] = 4.6;
+
+
+-- StarterGui.ScreenGui.Frame.Title
+G2L["5"] = Instance.new("TextLabel", G2L["2"]);
+G2L["5"]["BorderSizePixel"] = 0;
+G2L["5"]["TextSize"] = 43;
+G2L["5"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["5"]["FontFace"] = Font.new([[rbxasset://fonts/families/FredokaOne.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+G2L["5"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["5"]["BackgroundTransparency"] = 1;
+G2L["5"]["Size"] = UDim2.new(0, 210, 0, 52);
+G2L["5"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+G2L["5"]["Text"] = [[Ganteng Hub]];
+G2L["5"]["Name"] = [[Title]];
+G2L["5"]["Position"] = UDim2.new(0.28079, 0, -0.00187, 0);
+
+
+-- StarterGui.ScreenGui.Frame.Isi1
+G2L["6"] = Instance.new("TextLabel", G2L["2"]);
+G2L["6"]["BorderSizePixel"] = 0;
+G2L["6"]["TextSize"] = 23;
+G2L["6"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["6"]["FontFace"] = Font.new([[rbxasset://fonts/families/FredokaOne.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+G2L["6"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["6"]["BackgroundTransparency"] = 1;
+G2L["6"]["Size"] = UDim2.new(0, 210, 0, 52);
+G2L["6"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+G2L["6"]["Text"] = [[Ganteng Hub Its Not Support For Executor ( ]] .. identifyexecutor() .. [[ )]];
+G2L["6"]["Name"] = [[Isi1]];
+G2L["6"]["Position"] = UDim2.new(0.28079, 0, 0.22285, 0);
+
+
+-- StarterGui.ScreenGui.Frame.isi2
+G2L["7"] = Instance.new("TextLabel", G2L["2"]);
+G2L["7"]["BorderSizePixel"] = 0;
+G2L["7"]["TextSize"] = 23;
+G2L["7"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["7"]["FontFace"] = Font.new([[rbxasset://fonts/families/FredokaOne.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+G2L["7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["7"]["BackgroundTransparency"] = 1;
+G2L["7"]["RichText"] = true;
+G2L["7"]["Size"] = UDim2.new(0, 210, 0, 52);
+G2L["7"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+G2L["7"]["Text"] = [[ Please Change Another Executor :(]];
+G2L["7"]["Name"] = [[isi2]];
+G2L["7"]["Position"] = UDim2.new(0.28079, 0, 0.29776, 0);
+
+
+-- StarterGui.ScreenGui.Frame.ListEx
+G2L["8"] = Instance.new("TextLabel", G2L["2"]);
+G2L["8"]["BorderSizePixel"] = 0;
+G2L["8"]["TextSize"] = 16;
+G2L["8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["8"]["FontFace"] = Font.new([[rbxasset://fonts/families/FredokaOne.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+G2L["8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["8"]["BackgroundTransparency"] = 1;
+G2L["8"]["RichText"] = true;
+G2L["8"]["Size"] = UDim2.new(0, 210, 0, 52);
+G2L["8"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+G2L["8"]["Text"] = [[Android Support : All Executor]];
+G2L["8"]["Name"] = [[ListEx]];
+G2L["8"]["Position"] = UDim2.new(0.26985, 0, 0.52622, 0);
+
+
+-- StarterGui.ScreenGui.Frame.ListEx2
+G2L["9"] = Instance.new("TextLabel", G2L["2"]);
+G2L["9"]["BorderSizePixel"] = 0;
+G2L["9"]["TextSize"] = 16;
+G2L["9"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["9"]["FontFace"] = Font.new([[rbxasset://fonts/families/FredokaOne.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+G2L["9"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+G2L["9"]["BackgroundTransparency"] = 1;
+G2L["9"]["RichText"] = true;
+G2L["9"]["Size"] = UDim2.new(0, 210, 0, 52);
+G2L["9"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+G2L["9"]["Text"] = [[Pc Support : Wave,Awp,SynapseZ,SeliWare,SirHurt,Pottasium]];
+G2L["9"]["Name"] = [[ListEx2]];
+G2L["9"]["Position"] = UDim2.new(0.26985, 0, 0.60862, 0);
+
+
+-- StarterGui.ScreenGui.TextButton
+G2L["a"] = Instance.new("TextButton", G2L["1"]);
+G2L["a"]["BorderSizePixel"] = 0;
+G2L["a"]["TextSize"] = 23;
+G2L["a"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
+G2L["a"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 5);
+G2L["a"]["FontFace"] = Font.new([[rbxasset://fonts/families/AccanthisADFStd.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+G2L["a"]["Size"] = UDim2.new(0, 158, 0, 42);
+G2L["a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+G2L["a"]["Text"] = [[Closed]];
+G2L["a"]["Position"] = UDim2.new(0.42128, 0, 0.60288, 0);
+
+-- StarterGui.ScreenGui.TextButton.UICorner
+G2L["b"] = Instance.new("UICorner", G2L["a"]);
+
+-- StarterGui.ScreenGui.TextButton.UIStroke
+G2L["c"] = Instance.new("UIStroke", G2L["a"]);
+G2L["c"]["ApplyStrokeMode"] = Enum.ApplyStrokeMode.Border;
+G2L["c"]["Thickness"] = 2;
+
+G2L["a"].MouseButton1Click:Connect(function()
+    G2L["1"]:Destroy()
+end)
+
+return G2L["1"], require;
